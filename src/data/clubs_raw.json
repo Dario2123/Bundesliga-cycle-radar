@@ -1,0 +1,4318 @@
+[
+  {
+    "name": "FC Bayern München",
+    "tm_id": 27,
+    "avg_age": 26.5,
+    "expiring_2026": 2,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Jonas Urbig",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "08.08.2003",
+        "contract_end": "27.01.2025",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Manuel Neuer",
+        "position": "Torwart",
+        "age": 40,
+        "dob": "27.03.1986",
+        "contract_end": "30.06.2027",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Sven Ulreich",
+        "position": "Torwart",
+        "age": 37,
+        "dob": "03.08.1988",
+        "contract_end": "30.06.2027",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Leon Klanac",
+        "position": "Torwart",
+        "age": 19,
+        "dob": "01.03.2007",
+        "contract_end": "30.06.2027",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Dayot Upamecano",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "27.10.1998",
+        "contract_end": "30.06.2030",
+        "market_value": "70,00 Mio. €"
+      },
+      {
+        "name": "Jonathan Tah",
+        "position": "Innenverteidiger",
+        "age": 30,
+        "dob": "11.02.1996",
+        "contract_end": "09.06.2025",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Min-jae Kim",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "15.11.1996",
+        "contract_end": "18.07.2023",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Hiroki Ito",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "12.05.1999",
+        "contract_end": "01.07.2024",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Alphonso Davies",
+        "position": "Linker Verteidiger",
+        "age": 25,
+        "dob": "02.11.2000",
+        "contract_end": "30.06.2030",
+        "market_value": "45,00 Mio. €"
+      },
+      {
+        "name": "Josip Stanisic",
+        "position": "Rechter Verteidiger",
+        "age": 26,
+        "dob": "02.04.2000",
+        "contract_end": "30.06.2029",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Konrad Laimer",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "27.05.1997",
+        "contract_end": "01.07.2023",
+        "market_value": "32,00 Mio. €"
+      },
+      {
+        "name": "Aleksandar Pavlovic",
+        "position": "Defensives Mittelfeld",
+        "age": 22,
+        "dob": "03.05.2004",
+        "contract_end": "01.11.2023",
+        "market_value": "75,00 Mio. €"
+      },
+      {
+        "name": "Joshua Kimmich",
+        "position": "Defensives Mittelfeld",
+        "age": 31,
+        "dob": "08.02.1995",
+        "contract_end": "30.06.2029",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "David Santos Daiber",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "10.01.2007",
+        "contract_end": "30.06.2030",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Tom Bischof",
+        "position": "Zentrales Mittelfeld",
+        "age": 20,
+        "dob": "28.06.2005",
+        "contract_end": "09.06.2025",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Leon Goretzka",
+        "position": "Zentrales Mittelfeld",
+        "age": 31,
+        "dob": "06.02.1995",
+        "contract_end": "30.06.2026",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Bara Sapoko Ndiaye",
+        "position": "Zentrales Mittelfeld",
+        "age": 18,
+        "dob": "31.12.2007",
+        "contract_end": "03.01.2026",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Jamal Musiala",
+        "position": "Offensives Mittelfeld",
+        "age": 23,
+        "dob": "26.02.2003",
+        "contract_end": "30.06.2030",
+        "market_value": "120,00 Mio. €"
+      },
+      {
+        "name": "Lennart Karl",
+        "position": "Offensives Mittelfeld",
+        "age": 18,
+        "dob": "22.02.2008",
+        "contract_end": "01.06.2025",
+        "market_value": "60,00 Mio. €"
+      },
+      {
+        "name": "Raphaël Guerreiro",
+        "position": "Offensives Mittelfeld",
+        "age": 32,
+        "dob": "22.12.1993",
+        "contract_end": "01.07.2023",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Luis Díaz",
+        "position": "Linksaußen",
+        "age": 29,
+        "dob": "13.01.1997",
+        "contract_end": "30.07.2025",
+        "market_value": "70,00 Mio. €"
+      },
+      {
+        "name": "Michael Olise",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "12.12.2001",
+        "contract_end": "07.07.2024",
+        "market_value": "140,00 Mio. €"
+      },
+      {
+        "name": "Serge Gnabry",
+        "position": "Hängende Spitze",
+        "age": 30,
+        "dob": "14.07.1995",
+        "contract_end": "30.06.2028",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Harry Kane",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "28.07.1993",
+        "contract_end": "12.08.2023",
+        "market_value": "65,00 Mio. €"
+      },
+      {
+        "name": "Nicolas Jackson",
+        "position": "Mittelstürmer",
+        "age": 24,
+        "dob": "20.06.2001",
+        "contract_end": "01.09.2025",
+        "market_value": "40,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "Borussia Dortmund",
+    "tm_id": 16,
+    "avg_age": 25.9,
+    "expiring_2026": 4,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Gregor Kobel",
+        "position": "Torwart",
+        "age": 28,
+        "dob": "06.12.1997",
+        "contract_end": "30.06.2028",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Alexander Meyer",
+        "position": "Torwart",
+        "age": 35,
+        "dob": "13.04.1991",
+        "contract_end": "30.06.2027",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Patrick Drewes",
+        "position": "Torwart",
+        "age": 33,
+        "dob": "04.02.1993",
+        "contract_end": "01.07.2025",
+        "market_value": "400 Tsd. €"
+      },
+      {
+        "name": "Silas Ostrzinski",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "19.11.2003",
+        "contract_end": "04.01.2025",
+        "market_value": "200 Tsd. €"
+      },
+      {
+        "name": "Nico Schlotterbeck",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "01.12.1999",
+        "contract_end": "30.06.2031",
+        "market_value": "55,00 Mio. €"
+      },
+      {
+        "name": "Waldemar Anton",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "20.07.1996",
+        "contract_end": "08.07.2024",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Ramy Bensebaini",
+        "position": "Innenverteidiger",
+        "age": 31,
+        "dob": "16.04.1995",
+        "contract_end": "01.07.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Luca Reggiani",
+        "position": "Innenverteidiger",
+        "age": 18,
+        "dob": "09.01.2008",
+        "contract_end": "20.03.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Emre Can",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "12.01.1994",
+        "contract_end": "30.06.2027",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Niklas Süle",
+        "position": "Innenverteidiger",
+        "age": 30,
+        "dob": "03.09.1995",
+        "contract_end": "30.06.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Filippo Mane",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "08.03.2005",
+        "contract_end": "06.01.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Daniel Svensson",
+        "position": "Linker Verteidiger",
+        "age": 24,
+        "dob": "12.02.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Almugera Kabar",
+        "position": "Linker Verteidiger",
+        "age": 19,
+        "dob": "06.06.2006",
+        "contract_end": "07.08.2024",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Julian Ryerson",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "17.11.1997",
+        "contract_end": "17.01.2023",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Salih Özcan",
+        "position": "Defensives Mittelfeld",
+        "age": 28,
+        "dob": "11.01.1998",
+        "contract_end": "30.06.2026",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Felix Nmecha",
+        "position": "Zentrales Mittelfeld",
+        "age": 25,
+        "dob": "10.10.2000",
+        "contract_end": "03.07.2023",
+        "market_value": "50,00 Mio. €"
+      },
+      {
+        "name": "Jobe Bellingham",
+        "position": "Zentrales Mittelfeld",
+        "age": 20,
+        "dob": "23.09.2005",
+        "contract_end": "10.06.2025",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Carney Chukwuemeka",
+        "position": "Zentrales Mittelfeld",
+        "age": 22,
+        "dob": "20.10.2003",
+        "contract_end": "26.08.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Marcel Sabitzer",
+        "position": "Zentrales Mittelfeld",
+        "age": 32,
+        "dob": "17.03.1994",
+        "contract_end": "24.07.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Yan Couto",
+        "position": "Rechtes Mittelfeld",
+        "age": 23,
+        "dob": "03.06.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Julian Brandt",
+        "position": "Offensives Mittelfeld",
+        "age": 30,
+        "dob": "02.05.1996",
+        "contract_end": "30.06.2026",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Karim Adeyemi",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "18.01.2002",
+        "contract_end": "30.06.2027",
+        "market_value": "50,00 Mio. €"
+      },
+      {
+        "name": "Samuele Inácio",
+        "position": "Hängende Spitze",
+        "age": 18,
+        "dob": "02.04.2008",
+        "contract_end": "30.06.2029",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Serhou Guirassy",
+        "position": "Mittelstürmer",
+        "age": 30,
+        "dob": "12.03.1996",
+        "contract_end": "18.07.2024",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Maximilian Beier",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "17.10.2002",
+        "contract_end": "12.08.2024",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Fábio Silva",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "19.07.2002",
+        "contract_end": "29.08.2025",
+        "market_value": "28,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "RB Leipzig",
+    "tm_id": 23826,
+    "avg_age": 23.4,
+    "expiring_2026": 5,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 4,
+    "players": [
+      {
+        "name": "Maarten Vandevoordt",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "26.02.2002",
+        "contract_end": "01.07.2024",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Péter Gulácsi",
+        "position": "Torwart",
+        "age": 36,
+        "dob": "06.05.1990",
+        "contract_end": "30.06.2027",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Leopold Zingerle",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "10.04.1994",
+        "contract_end": "01.07.2023",
+        "market_value": "400 Tsd. €"
+      },
+      {
+        "name": "Castello Lukeba",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "17.12.2002",
+        "contract_end": "11.08.2023",
+        "market_value": "45,00 Mio. €"
+      },
+      {
+        "name": "El Chadaille Bitshiabu",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "16.05.2005",
+        "contract_end": "18.07.2023",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Willi Orbán",
+        "position": "Innenverteidiger",
+        "age": 33,
+        "dob": "03.11.1992",
+        "contract_end": "30.06.2027",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Lukas Klostermann",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "03.06.1996",
+        "contract_end": "30.06.2028",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "David Raum",
+        "position": "Linker Verteidiger",
+        "age": 28,
+        "dob": "22.04.1998",
+        "contract_end": "30.06.2027",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Max Finkgräfe",
+        "position": "Linker Verteidiger",
+        "age": 22,
+        "dob": "27.03.2004",
+        "contract_end": "03.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Ridle Baku",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "08.04.1998",
+        "contract_end": "10.01.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Benjamin Henrichs",
+        "position": "Rechter Verteidiger",
+        "age": 29,
+        "dob": "23.02.1997",
+        "contract_end": "30.06.2028",
+        "market_value": "9,00 Mio. €"
+      },
+      {
+        "name": "Kosta Nedeljkovic",
+        "position": "Rechter Verteidiger",
+        "age": 20,
+        "dob": "16.12.2005",
+        "contract_end": "03.02.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Nicolas Seiwald",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "04.05.2001",
+        "contract_end": "01.07.2023",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Benno Kaltefleiter",
+        "position": "Defensives Mittelfeld",
+        "age": 18,
+        "dob": "14.02.2008",
+        "contract_end": "19.02.2026",
+        "market_value": "-"
+      },
+      {
+        "name": "Assan Ouédraogo",
+        "position": "Zentrales Mittelfeld",
+        "age": 20,
+        "dob": "09.05.2006",
+        "contract_end": "01.07.2024",
+        "market_value": "28,00 Mio. €"
+      },
+      {
+        "name": "Ezechiel Banzuzi",
+        "position": "Zentrales Mittelfeld",
+        "age": 21,
+        "dob": "16.02.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Xaver Schlager",
+        "position": "Zentrales Mittelfeld",
+        "age": 28,
+        "dob": "28.09.1997",
+        "contract_end": "30.06.2026",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Christoph Baumgartner",
+        "position": "Offensives Mittelfeld",
+        "age": 26,
+        "dob": "01.08.1999",
+        "contract_end": "01.07.2023",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Brajan Gruda",
+        "position": "Offensives Mittelfeld",
+        "age": 21,
+        "dob": "31.05.2004",
+        "contract_end": "02.02.2026",
+        "market_value": "28,00 Mio. €"
+      },
+      {
+        "name": "Andrija Maksimovic",
+        "position": "Offensives Mittelfeld",
+        "age": 18,
+        "dob": "05.06.2007",
+        "contract_end": "16.07.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Viggo Gebel",
+        "position": "Offensives Mittelfeld",
+        "age": 18,
+        "dob": "22.11.2007",
+        "contract_end": "30.06.2028",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Yan Diomande",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "14.11.2006",
+        "contract_end": "16.07.2025",
+        "market_value": "75,00 Mio. €"
+      },
+      {
+        "name": "Antonio Nusa",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "17.04.2005",
+        "contract_end": "13.08.2024",
+        "market_value": "32,00 Mio. €"
+      },
+      {
+        "name": "Suleman Sani",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "01.09.2006",
+        "contract_end": "13.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Tidiam Gomis",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "08.08.2006",
+        "contract_end": "03.02.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Ayodele Thomas",
+        "position": "Linksaußen",
+        "age": 18,
+        "dob": "23.07.2007",
+        "contract_end": "02.02.2026",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Johan Bakayoko",
+        "position": "Rechtsaußen",
+        "age": 23,
+        "dob": "20.04.2003",
+        "contract_end": "16.07.2025",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Rômulo",
+        "position": "Mittelstürmer",
+        "age": 24,
+        "dob": "08.02.2002",
+        "contract_end": "15.08.2025",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Conrad Harder",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "07.04.2005",
+        "contract_end": "01.09.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Samba Konaté",
+        "position": "Mittelstürmer",
+        "age": 17,
+        "dob": "27.02.2009",
+        "contract_end": "30.06.2028",
+        "market_value": "1,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "VfB Stuttgart",
+    "tm_id": 79,
+    "avg_age": 24.4,
+    "expiring_2026": 3,
+    "expiring_2027": 1,
+    "expiring_2028_plus": 4,
+    "players": [
+      {
+        "name": "Alexander Nübel",
+        "position": "Torwart",
+        "age": 29,
+        "dob": "30.09.1996",
+        "contract_end": "25.07.2023",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Florian Hellstern",
+        "position": "Torwart",
+        "age": 18,
+        "dob": "18.10.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Fabian Bredlow",
+        "position": "Torwart",
+        "age": 31,
+        "dob": "02.03.1995",
+        "contract_end": "30.06.2027",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Stefan Drljaca",
+        "position": "Torwart",
+        "age": 27,
+        "dob": "20.04.1999",
+        "contract_end": "01.07.2024",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Finn Jeltsch",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "17.07.2006",
+        "contract_end": "03.02.2025",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Ramon Hendriks",
+        "position": "Innenverteidiger",
+        "age": 24,
+        "dob": "18.07.2001",
+        "contract_end": "01.07.2024",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Jeff Chabot",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "12.02.1998",
+        "contract_end": "01.07.2024",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Luca Jaquez",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "02.06.2003",
+        "contract_end": "03.02.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Ameen Al-Dakhil",
+        "position": "Innenverteidiger",
+        "age": 24,
+        "dob": "06.03.2002",
+        "contract_end": "27.08.2024",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Dan-Axel Zagadou",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "03.06.1999",
+        "contract_end": "30.06.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Maximilian Mittelstädt",
+        "position": "Linker Verteidiger",
+        "age": 29,
+        "dob": "18.03.1997",
+        "contract_end": "01.07.2023",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Josha Vagnoman",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "11.12.2000",
+        "contract_end": "30.06.2028",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Lorenz Assignon",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "22.06.2000",
+        "contract_end": "01.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Pascal Stenzel",
+        "position": "Rechter Verteidiger",
+        "age": 30,
+        "dob": "20.03.1996",
+        "contract_end": "30.06.2026",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Angelo Stiller",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "04.04.2001",
+        "contract_end": "25.08.2023",
+        "market_value": "45,00 Mio. €"
+      },
+      {
+        "name": "Chema Andrés",
+        "position": "Defensives Mittelfeld",
+        "age": 21,
+        "dob": "25.04.2005",
+        "contract_end": "27.07.2025",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Atakan Karazor",
+        "position": "Defensives Mittelfeld",
+        "age": 29,
+        "dob": "13.10.1996",
+        "contract_end": "30.06.2028",
+        "market_value": "9,00 Mio. €"
+      },
+      {
+        "name": "Mirza Catovic",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "01.05.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Nikolas Nartey",
+        "position": "Zentrales Mittelfeld",
+        "age": 26,
+        "dob": "22.02.2000",
+        "contract_end": "30.06.2028",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Bilal El Khannouss",
+        "position": "Offensives Mittelfeld",
+        "age": 22,
+        "dob": "10.05.2004",
+        "contract_end": "01.09.2025",
+        "market_value": "32,00 Mio. €"
+      },
+      {
+        "name": "Chris Führich",
+        "position": "Linksaußen",
+        "age": 28,
+        "dob": "09.01.1998",
+        "contract_end": "30.06.2028",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Justin Diehl",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "27.11.2004",
+        "contract_end": "01.07.2024",
+        "market_value": "1,80 Mio. €"
+      },
+      {
+        "name": "Jamie Leweling",
+        "position": "Rechtsaußen",
+        "age": 25,
+        "dob": "26.02.2001",
+        "contract_end": "01.07.2024",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Tiago Tomás",
+        "position": "Rechtsaußen",
+        "age": 23,
+        "dob": "16.06.2002",
+        "contract_end": "16.08.2025",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Badredine Bouanani",
+        "position": "Rechtsaußen",
+        "age": 21,
+        "dob": "08.12.2004",
+        "contract_end": "31.08.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Lazar Jovanovic",
+        "position": "Rechtsaußen",
+        "age": 19,
+        "dob": "30.11.2006",
+        "contract_end": "08.07.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Noah Darvich",
+        "position": "Rechtsaußen",
+        "age": 19,
+        "dob": "25.09.2006",
+        "contract_end": "01.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Ermedin Demirovic",
+        "position": "Mittelstürmer",
+        "age": 28,
+        "dob": "25.03.1998",
+        "contract_end": "16.07.2024",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Deniz Undav",
+        "position": "Mittelstürmer",
+        "age": 29,
+        "dob": "19.07.1996",
+        "contract_end": "09.08.2024",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Jeremy Arévalo",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "19.03.2005",
+        "contract_end": "02.01.2026",
+        "market_value": "7,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "TSG Hoffenheim",
+    "tm_id": 533,
+    "avg_age": 25.1,
+    "expiring_2026": 7,
+    "expiring_2027": 0,
+    "expiring_2028_plus": 2,
+    "players": [
+      {
+        "name": "Oliver Baumann",
+        "position": "Torwart",
+        "age": 35,
+        "dob": "02.06.1990",
+        "contract_end": "30.06.2028",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Luca Philipp",
+        "position": "Torwart",
+        "age": 25,
+        "dob": "28.11.2000",
+        "contract_end": "30.06.2026",
+        "market_value": "750 Tsd. €"
+      },
+      {
+        "name": "Lúkas Petersson",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "09.02.2004",
+        "contract_end": "01.07.2024",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Albian Hajdari",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "18.05.2003",
+        "contract_end": "25.08.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Robin Hranac",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "29.01.2000",
+        "contract_end": "25.08.2024",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Ozan Kabak",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "25.03.2000",
+        "contract_end": "30.06.2030",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Koki Machida",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "25.08.1997",
+        "contract_end": "01.07.2025",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Kevin Akpoguma",
+        "position": "Innenverteidiger",
+        "age": 31,
+        "dob": "19.04.1995",
+        "contract_end": "30.06.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Kelven Frees",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "03.02.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Bernardo",
+        "position": "Linker Verteidiger",
+        "age": 31,
+        "dob": "14.05.1995",
+        "contract_end": "01.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Valentin Gendrey",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "21.06.2000",
+        "contract_end": "27.08.2024",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Vladimír Coufal",
+        "position": "Rechter Verteidiger",
+        "age": 33,
+        "dob": "22.08.1992",
+        "contract_end": "05.08.2025",
+        "market_value": "2,70 Mio. €"
+      },
+      {
+        "name": "Leon Avdullahu",
+        "position": "Defensives Mittelfeld",
+        "age": 22,
+        "dob": "23.02.2004",
+        "contract_end": "01.07.2025",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Wouter Burger",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "16.02.2001",
+        "contract_end": "22.07.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Luis Engelns",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "11.03.2007",
+        "contract_end": "02.02.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Grischa Prömel",
+        "position": "Zentrales Mittelfeld",
+        "age": 31,
+        "dob": "09.01.1995",
+        "contract_end": "30.06.2026",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Luka Duric",
+        "position": "Zentrales Mittelfeld",
+        "age": 22,
+        "dob": "18.06.2003",
+        "contract_end": "01.07.2025",
+        "market_value": "450 Tsd. €"
+      },
+      {
+        "name": "Alexander Prass",
+        "position": "Linkes Mittelfeld",
+        "age": 25,
+        "dob": "26.05.2001",
+        "contract_end": "05.08.2024",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Muhammed Damar",
+        "position": "Offensives Mittelfeld",
+        "age": 22,
+        "dob": "09.04.2004",
+        "contract_end": "30.06.2029",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Andrej Kramaric",
+        "position": "Offensives Mittelfeld",
+        "age": 34,
+        "dob": "19.06.1991",
+        "contract_end": "30.06.2028",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Bazoumana Touré",
+        "position": "Linksaußen",
+        "age": 20,
+        "dob": "02.03.2006",
+        "contract_end": "01.02.2025",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Deniz Zeitler",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "13.12.2006",
+        "contract_end": "10.07.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Cole Campbell",
+        "position": "Rechtsaußen",
+        "age": 20,
+        "dob": "20.02.2006",
+        "contract_end": "05.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Fisnik Asllani",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "08.08.2002",
+        "contract_end": "30.06.2029",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Tim Lemperle",
+        "position": "Mittelstürmer",
+        "age": 24,
+        "dob": "05.02.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Adam Hlozek",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "25.07.2002",
+        "contract_end": "17.08.2024",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Max Moerstedt",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "15.01.2006",
+        "contract_end": "01.01.2024",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Yannick Eduardo",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "23.01.2006",
+        "contract_end": "02.02.2026",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Ihlas Bebou",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "23.04.1994",
+        "contract_end": "30.06.2026",
+        "market_value": "800 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "Bayer 04 Leverkusen",
+    "tm_id": 15,
+    "avg_age": 26.0,
+    "expiring_2026": 3,
+    "expiring_2027": 1,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Mark Flekken",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "13.06.1993",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Jonas Omlin",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "10.01.1994",
+        "contract_end": "27.01.2026",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Janis Blaswich",
+        "position": "Torwart",
+        "age": 35,
+        "dob": "02.05.1991",
+        "contract_end": "11.08.2025",
+        "market_value": "700 Tsd. €"
+      },
+      {
+        "name": "Niklas Lomb",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "28.07.1993",
+        "contract_end": "30.06.2027",
+        "market_value": "250 Tsd. €"
+      },
+      {
+        "name": "Jarell Quansah",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "29.01.2003",
+        "contract_end": "02.07.2025",
+        "market_value": "45,00 Mio. €"
+      },
+      {
+        "name": "Edmond Tapsoba",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "02.02.1999",
+        "contract_end": "30.06.2031",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Loïc Badé",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "11.04.2000",
+        "contract_end": "21.08.2025",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Axel Tape",
+        "position": "Innenverteidiger",
+        "age": 18,
+        "dob": "10.08.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Tim Oermann",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "06.10.2003",
+        "contract_end": "01.07.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Issa Traoré",
+        "position": "Innenverteidiger",
+        "age": 18,
+        "dob": "14.11.2007",
+        "contract_end": "01.01.2026",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Alejandro Grimaldo",
+        "position": "Linker Verteidiger",
+        "age": 30,
+        "dob": "20.09.1995",
+        "contract_end": "01.07.2023",
+        "market_value": "24,00 Mio. €"
+      },
+      {
+        "name": "Arthur",
+        "position": "Rechter Verteidiger",
+        "age": 23,
+        "dob": "17.03.2003",
+        "contract_end": "01.07.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Lucas Vázquez",
+        "position": "Rechter Verteidiger",
+        "age": 34,
+        "dob": "01.07.1991",
+        "contract_end": "26.08.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Equi Fernández",
+        "position": "Defensives Mittelfeld",
+        "age": 23,
+        "dob": "25.07.2002",
+        "contract_end": "01.09.2025",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Robert Andrich",
+        "position": "Defensives Mittelfeld",
+        "age": 31,
+        "dob": "22.09.1994",
+        "contract_end": "30.06.2028",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Exequiel Palacios",
+        "position": "Zentrales Mittelfeld",
+        "age": 27,
+        "dob": "05.10.1998",
+        "contract_end": "30.06.2030",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Aleix García",
+        "position": "Zentrales Mittelfeld",
+        "age": 28,
+        "dob": "28.06.1997",
+        "contract_end": "01.07.2024",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Ibrahim Maza",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "24.11.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Malik Tillman",
+        "position": "Offensives Mittelfeld",
+        "age": 23,
+        "dob": "28.05.2002",
+        "contract_end": "12.07.2025",
+        "market_value": "30,00 Mio. €"
+      },
+      {
+        "name": "Jonas Hofmann",
+        "position": "Offensives Mittelfeld",
+        "age": 33,
+        "dob": "14.07.1992",
+        "contract_end": "05.07.2023",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Eliesse Ben Seghir",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "16.02.2005",
+        "contract_end": "31.08.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Martin Terrier",
+        "position": "Linksaußen",
+        "age": 29,
+        "dob": "04.03.1997",
+        "contract_end": "18.07.2024",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Ernest Poku",
+        "position": "Rechtsaußen",
+        "age": 22,
+        "dob": "28.01.2004",
+        "contract_end": "12.08.2025",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Nathan Tella",
+        "position": "Rechtsaußen",
+        "age": 26,
+        "dob": "05.07.1999",
+        "contract_end": "27.08.2023",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Montrell Culbreath",
+        "position": "Rechtsaußen",
+        "age": 18,
+        "dob": "29.08.2007",
+        "contract_end": "29.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Christian Kofane",
+        "position": "Mittelstürmer",
+        "age": 19,
+        "dob": "26.07.2006",
+        "contract_end": "11.07.2025",
+        "market_value": "40,00 Mio. €"
+      },
+      {
+        "name": "Patrik Schick",
+        "position": "Mittelstürmer",
+        "age": 30,
+        "dob": "24.01.1996",
+        "contract_end": "30.06.2030",
+        "market_value": "20,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "tm_id": 24,
+    "avg_age": 25.1,
+    "expiring_2026": 6,
+    "expiring_2027": 1,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Kauã Santos",
+        "position": "Torwart",
+        "age": 23,
+        "dob": "11.04.2003",
+        "contract_end": "29.08.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Michael Zetterer",
+        "position": "Torwart",
+        "age": 30,
+        "dob": "12.07.1995",
+        "contract_end": "20.08.2025",
+        "market_value": "4,50 Mio. €"
+      },
+      {
+        "name": "Jens Grahl",
+        "position": "Torwart",
+        "age": 37,
+        "dob": "22.09.1988",
+        "contract_end": "30.06.2027",
+        "market_value": "200 Tsd. €"
+      },
+      {
+        "name": "Amil Siljevic",
+        "position": "Torwart",
+        "age": 19,
+        "dob": "19.01.2007",
+        "contract_end": "10.07.2025",
+        "market_value": "-"
+      },
+      {
+        "name": "Arthur Theate",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "25.05.2000",
+        "contract_end": "02.02.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Nnamdi Collins",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "10.01.2004",
+        "contract_end": "09.08.2023",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Robin Koch",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "17.07.1996",
+        "contract_end": "01.07.2024",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Aurèle Amenda",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "31.07.2003",
+        "contract_end": "24.01.2024",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Nathaniel Brown",
+        "position": "Linker Verteidiger",
+        "age": 22,
+        "dob": "16.06.2003",
+        "contract_end": "03.01.2024",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Keita Kosugi",
+        "position": "Linker Verteidiger",
+        "age": 20,
+        "dob": "18.03.2006",
+        "contract_end": "01.01.2026",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Rasmus Kristensen",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "11.07.1997",
+        "contract_end": "01.07.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Elias Baum",
+        "position": "Rechter Verteidiger",
+        "age": 20,
+        "dob": "26.10.2005",
+        "contract_end": "26.10.2023",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Timothy Chandler",
+        "position": "Rechter Verteidiger",
+        "age": 36,
+        "dob": "29.03.1990",
+        "contract_end": "30.06.2026",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Ellyes Skhiri",
+        "position": "Defensives Mittelfeld",
+        "age": 31,
+        "dob": "10.05.1995",
+        "contract_end": "05.07.2023",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Hugo Larsson",
+        "position": "Zentrales Mittelfeld",
+        "age": 21,
+        "dob": "27.06.2004",
+        "contract_end": "01.07.2023",
+        "market_value": "32,00 Mio. €"
+      },
+      {
+        "name": "Oscar Højlund",
+        "position": "Zentrales Mittelfeld",
+        "age": 21,
+        "dob": "04.01.2005",
+        "contract_end": "10.07.2024",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Mahmoud Dahoud",
+        "position": "Zentrales Mittelfeld",
+        "age": 30,
+        "dob": "01.01.1996",
+        "contract_end": "30.08.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Can Uzun",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "11.11.2005",
+        "contract_end": "02.07.2024",
+        "market_value": "45,00 Mio. €"
+      },
+      {
+        "name": "Farès Chaïbi",
+        "position": "Offensives Mittelfeld",
+        "age": 23,
+        "dob": "28.11.2002",
+        "contract_end": "30.08.2023",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Love Arrhov",
+        "position": "Offensives Mittelfeld",
+        "age": 18,
+        "dob": "17.05.2008",
+        "contract_end": "01.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Mario Götze",
+        "position": "Offensives Mittelfeld",
+        "age": 33,
+        "dob": "03.06.1992",
+        "contract_end": "30.06.2028",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Jean-Mattéo Bahoya",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "07.05.2005",
+        "contract_end": "25.01.2024",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Ritsu Doan",
+        "position": "Rechtsaußen",
+        "age": 27,
+        "dob": "16.06.1998",
+        "contract_end": "07.08.2025",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Ansgar Knauff",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "10.01.2002",
+        "contract_end": "01.07.2023",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Ayoube Amaimouni-Echghouyab",
+        "position": "Rechtsaußen",
+        "age": 21,
+        "dob": "30.11.2004",
+        "contract_end": "02.01.2026",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Jonathan Burkardt",
+        "position": "Mittelstürmer",
+        "age": 25,
+        "dob": "11.07.2000",
+        "contract_end": "04.07.2025",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Arnaud Kalimuendo",
+        "position": "Mittelstürmer",
+        "age": 24,
+        "dob": "20.01.2002",
+        "contract_end": "07.01.2026",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Younes Ebnoutalib",
+        "position": "Mittelstürmer",
+        "age": 22,
+        "dob": "13.09.2003",
+        "contract_end": "01.01.2026",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Michy Batshuayi",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "02.10.1993",
+        "contract_end": "03.02.2025",
+        "market_value": "3,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "SC Freiburg",
+    "tm_id": 60,
+    "avg_age": 27.6,
+    "expiring_2026": 2,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 0,
+    "players": [
+      {
+        "name": "Noah Atubolu",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "25.05.2002",
+        "contract_end": "30.06.2027",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Florian Müller",
+        "position": "Torwart",
+        "age": 28,
+        "dob": "13.11.1997",
+        "contract_end": "01.07.2023",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Jannik Huth",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "15.04.1994",
+        "contract_end": "01.07.2024",
+        "market_value": "400 Tsd. €"
+      },
+      {
+        "name": "Philipp Lienhart",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "11.07.1996",
+        "contract_end": "",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Bruno Ogbus",
+        "position": "Innenverteidiger",
+        "age": 20,
+        "dob": "17.12.2005",
+        "contract_end": "01.07.2024",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Matthias Ginter",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "19.01.1994",
+        "contract_end": "30.06.2027",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Max Rosenfelder",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "10.02.2003",
+        "contract_end": "01.07.2023",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Anthony Jung",
+        "position": "Innenverteidiger",
+        "age": 34,
+        "dob": "03.11.1991",
+        "contract_end": "01.07.2025",
+        "market_value": "700 Tsd. €"
+      },
+      {
+        "name": "Jordy Makengo",
+        "position": "Linker Verteidiger",
+        "age": 24,
+        "dob": "03.08.2001",
+        "contract_end": "01.07.2023",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Christian Günter",
+        "position": "Linker Verteidiger",
+        "age": 33,
+        "dob": "28.02.1993",
+        "contract_end": "",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Philipp Treu",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "03.12.2000",
+        "contract_end": "01.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Lukas Kübler",
+        "position": "Rechter Verteidiger",
+        "age": 33,
+        "dob": "30.08.1992",
+        "contract_end": "",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Patrick Osterhage",
+        "position": "Defensives Mittelfeld",
+        "age": 26,
+        "dob": "01.02.2000",
+        "contract_end": "01.07.2024",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Nicolas Höfler",
+        "position": "Defensives Mittelfeld",
+        "age": 36,
+        "dob": "09.03.1990",
+        "contract_end": "30.06.2026",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Johan Manzambi",
+        "position": "Zentrales Mittelfeld",
+        "age": 20,
+        "dob": "14.10.2005",
+        "contract_end": "01.07.2024",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Maximilian Eggestein",
+        "position": "Zentrales Mittelfeld",
+        "age": 29,
+        "dob": "08.12.1996",
+        "contract_end": "",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Daniel-Kofi Kyereh",
+        "position": "Offensives Mittelfeld",
+        "age": 30,
+        "dob": "08.03.1996",
+        "contract_end": "30.06.2026",
+        "market_value": "100 Tsd. €"
+      },
+      {
+        "name": "Derry Scherhant",
+        "position": "Linksaußen",
+        "age": 23,
+        "dob": "10.11.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Vincenzo Grifo",
+        "position": "Linksaußen",
+        "age": 33,
+        "dob": "07.04.1993",
+        "contract_end": "30.06.2027",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Cyriaque Irié",
+        "position": "Rechtsaußen",
+        "age": 20,
+        "dob": "20.06.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Niklas Beste",
+        "position": "Rechtsaußen",
+        "age": 27,
+        "dob": "04.01.1999",
+        "contract_end": "31.01.2025",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Yuito Suzuki",
+        "position": "Hängende Spitze",
+        "age": 24,
+        "dob": "25.10.2001",
+        "contract_end": "01.07.2025",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Maximilian Philipp",
+        "position": "Hängende Spitze",
+        "age": 32,
+        "dob": "01.03.1994",
+        "contract_end": "01.07.2024",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Igor Matanovic",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "31.03.2003",
+        "contract_end": "09.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Lucas Höler",
+        "position": "Mittelstürmer",
+        "age": 31,
+        "dob": "10.07.1994",
+        "contract_end": "",
+        "market_value": "3,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "1. FC Union Berlin",
+    "tm_id": 89,
+    "avg_age": 26.7,
+    "expiring_2026": 1,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 0,
+    "players": [
+      {
+        "name": "Frederik Rönnow",
+        "position": "Torwart",
+        "age": 33,
+        "dob": "04.08.1992",
+        "contract_end": "",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Matheo Raab",
+        "position": "Torwart",
+        "age": 27,
+        "dob": "18.12.1998",
+        "contract_end": "11.07.2025",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Carl Klaus",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "16.01.1994",
+        "contract_end": "28.07.2024",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Leopold Querfeld",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "20.12.2003",
+        "contract_end": "01.07.2024",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Danilho Doekhi",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "30.06.1998",
+        "contract_end": "30.06.2026",
+        "market_value": "13,00 Mio. €"
+      },
+      {
+        "name": "Diogo Leite",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "23.01.1999",
+        "contract_end": "01.07.2023",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Stanley Nsoki",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "09.04.1999",
+        "contract_end": "24.07.2025",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Tom Rothe",
+        "position": "Linker Verteidiger",
+        "age": 21,
+        "dob": "29.10.2004",
+        "contract_end": "07.08.2024",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Derrick Köhn",
+        "position": "Linker Verteidiger",
+        "age": 27,
+        "dob": "04.02.1999",
+        "contract_end": "19.08.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Andrik Markgraf",
+        "position": "Linker Verteidiger",
+        "age": 20,
+        "dob": "07.03.2006",
+        "contract_end": "01.07.2025",
+        "market_value": "-"
+      },
+      {
+        "name": "Josip Juranovic",
+        "position": "Rechter Verteidiger",
+        "age": 30,
+        "dob": "16.08.1995",
+        "contract_end": "22.01.2023",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Christopher Trimmel",
+        "position": "Rechter Verteidiger",
+        "age": 39,
+        "dob": "24.02.1987",
+        "contract_end": "30.06.2027",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Aljoscha Kemlein",
+        "position": "Defensives Mittelfeld",
+        "age": 21,
+        "dob": "02.08.2004",
+        "contract_end": "01.07.2023",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Rani Khedira",
+        "position": "Defensives Mittelfeld",
+        "age": 32,
+        "dob": "27.01.1994",
+        "contract_end": "",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "András Schäfer",
+        "position": "Zentrales Mittelfeld",
+        "age": 27,
+        "dob": "13.04.1999",
+        "contract_end": "30.06.2027",
+        "market_value": "4,50 Mio. €"
+      },
+      {
+        "name": "Janik Haberer",
+        "position": "Zentrales Mittelfeld",
+        "age": 32,
+        "dob": "02.04.1994",
+        "contract_end": "30.06.2027",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Alex Král",
+        "position": "Zentrales Mittelfeld",
+        "age": 28,
+        "dob": "19.05.1998",
+        "contract_end": "01.07.2024",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Robert Skov",
+        "position": "Linkes Mittelfeld",
+        "age": 30,
+        "dob": "20.05.1996",
+        "contract_end": "04.09.2024",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Woo-yeong Jeong",
+        "position": "Offensives Mittelfeld",
+        "age": 26,
+        "dob": "20.09.1999",
+        "contract_end": "01.07.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Livan Burcu",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "28.09.2004",
+        "contract_end": "20.07.2024",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "David Preu",
+        "position": "Linksaußen",
+        "age": 21,
+        "dob": "26.10.2004",
+        "contract_end": "01.07.2023",
+        "market_value": "400 Tsd. €"
+      },
+      {
+        "name": "Ilyas Ansah",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "08.11.2004",
+        "contract_end": "01.07.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Andrej Ilic",
+        "position": "Mittelstürmer",
+        "age": 26,
+        "dob": "03.04.2000",
+        "contract_end": "01.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Oliver Burke",
+        "position": "Mittelstürmer",
+        "age": 29,
+        "dob": "07.04.1997",
+        "contract_end": "01.07.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Tim Skarke",
+        "position": "Mittelstürmer",
+        "age": 29,
+        "dob": "07.09.1996",
+        "contract_end": "",
+        "market_value": "1,80 Mio. €"
+      },
+      {
+        "name": "Dmytro Bogdanov",
+        "position": "Mittelstürmer",
+        "age": 19,
+        "dob": "06.03.2007",
+        "contract_end": "13.08.2025",
+        "market_value": "600 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "1. FC Köln",
+    "tm_id": 3,
+    "avg_age": 25.4,
+    "expiring_2026": 7,
+    "expiring_2027": 4,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Marvin Schwäbe",
+        "position": "Torwart",
+        "age": 31,
+        "dob": "25.04.1995",
+        "contract_end": "30.06.2027",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Ron-Robert Zieler",
+        "position": "Torwart",
+        "age": 37,
+        "dob": "12.02.1989",
+        "contract_end": "07.07.2025",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Matthias Köbbing",
+        "position": "Torwart",
+        "age": 28,
+        "dob": "28.05.1997",
+        "contract_end": "30.06.2027",
+        "market_value": "100 Tsd. €"
+      },
+      {
+        "name": "Rav van den Berg",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "07.07.2004",
+        "contract_end": "13.08.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Jahmai Simpson-Pusey",
+        "position": "Innenverteidiger",
+        "age": 20,
+        "dob": "04.11.2005",
+        "contract_end": "06.01.2026",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Joël Schmied",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "23.09.1998",
+        "contract_end": "13.01.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Cenk Özkacar",
+        "position": "Innenverteidiger",
+        "age": 25,
+        "dob": "06.10.2000",
+        "contract_end": "09.08.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Timo Hübers",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "20.07.1996",
+        "contract_end": "30.06.2027",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Dominique Heintz",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "15.08.1993",
+        "contract_end": "31.08.2023",
+        "market_value": "700 Tsd. €"
+      },
+      {
+        "name": "Luca Kilian",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "01.09.1999",
+        "contract_end": "30.06.2026",
+        "market_value": "100 Tsd. €"
+      },
+      {
+        "name": "Kristoffer Lund",
+        "position": "Linker Verteidiger",
+        "age": 24,
+        "dob": "14.05.2002",
+        "contract_end": "05.08.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Sebastian Sebulonsen",
+        "position": "Rechter Verteidiger",
+        "age": 26,
+        "dob": "27.01.2000",
+        "contract_end": "18.07.2025",
+        "market_value": "5,50 Mio. €"
+      },
+      {
+        "name": "Eric Martel",
+        "position": "Defensives Mittelfeld",
+        "age": 24,
+        "dob": "29.04.2002",
+        "contract_end": "30.06.2026",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Tom Krauß",
+        "position": "Defensives Mittelfeld",
+        "age": 24,
+        "dob": "22.06.2001",
+        "contract_end": "05.07.2025",
+        "market_value": "4,50 Mio. €"
+      },
+      {
+        "name": "Fayssal Harchaoui",
+        "position": "Defensives Mittelfeld",
+        "age": 20,
+        "dob": "15.01.2006",
+        "contract_end": "01.07.2024",
+        "market_value": "200 Tsd. €"
+      },
+      {
+        "name": "Ísak Jóhannesson",
+        "position": "Zentrales Mittelfeld",
+        "age": 23,
+        "dob": "23.03.2003",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Denis Huseinbasic",
+        "position": "Zentrales Mittelfeld",
+        "age": 24,
+        "dob": "03.07.2001",
+        "contract_end": "30.06.2027",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Felipe Chávez",
+        "position": "Zentrales Mittelfeld",
+        "age": 19,
+        "dob": "10.04.2007",
+        "contract_end": "02.02.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Alessio Castro-Montes",
+        "position": "Rechtes Mittelfeld",
+        "age": 29,
+        "dob": "17.05.1997",
+        "contract_end": "01.09.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Florian Kainz",
+        "position": "Offensives Mittelfeld",
+        "age": 33,
+        "dob": "24.10.1992",
+        "contract_end": "30.06.2026",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Said El Mala",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "26.08.2006",
+        "contract_end": "01.07.2024",
+        "market_value": "35,00 Mio. €"
+      },
+      {
+        "name": "Jakub Kaminski",
+        "position": "Linksaußen",
+        "age": 23,
+        "dob": "05.06.2002",
+        "contract_end": "04.07.2025",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Linton Maina",
+        "position": "Linksaußen",
+        "age": 26,
+        "dob": "23.06.1999",
+        "contract_end": "",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Marius Bülter",
+        "position": "Linksaußen",
+        "age": 33,
+        "dob": "29.03.1993",
+        "contract_end": "31.07.2025",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Jan Thielmann",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "26.05.2002",
+        "contract_end": "30.06.2028",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Youssoupha Niang",
+        "position": "Rechtsaußen",
+        "age": 20,
+        "dob": "25.03.2006",
+        "contract_end": "01.01.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Ragnar Ache",
+        "position": "Mittelstürmer",
+        "age": 27,
+        "dob": "28.07.1998",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Luca Waldschmidt",
+        "position": "Mittelstürmer",
+        "age": 30,
+        "dob": "19.05.1996",
+        "contract_end": "01.07.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Fynn Schenten",
+        "position": "Mittelstürmer",
+        "age": 18,
+        "dob": "14.09.2007",
+        "contract_end": "29.01.2026",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Malek El Mala",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "02.04.2005",
+        "contract_end": "01.07.2024",
+        "market_value": "250 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "tm_id": 18,
+    "avg_age": 25.5,
+    "expiring_2026": 4,
+    "expiring_2027": 6,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Moritz Nicolas",
+        "position": "Torwart",
+        "age": 28,
+        "dob": "21.10.1997",
+        "contract_end": "30.06.2029",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Tiago Pereira Cardoso",
+        "position": "Torwart",
+        "age": 20,
+        "dob": "07.04.2006",
+        "contract_end": "01.03.2025",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Jan Olschowsky",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "18.11.2001",
+        "contract_end": "30.06.2027",
+        "market_value": "450 Tsd. €"
+      },
+      {
+        "name": "Tobias Sippel",
+        "position": "Torwart",
+        "age": 38,
+        "dob": "22.03.1988",
+        "contract_end": "30.06.2027",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Nico Elvedi",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "30.09.1996",
+        "contract_end": "30.06.2027",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Kevin Diks",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "06.10.1996",
+        "contract_end": "01.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Kota Takai",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "04.09.2004",
+        "contract_end": "02.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Fabio Chiarodia",
+        "position": "Innenverteidiger",
+        "age": 20,
+        "dob": "05.06.2005",
+        "contract_end": "01.07.2023",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Marvin Friedrich",
+        "position": "Innenverteidiger",
+        "age": 30,
+        "dob": "13.12.1995",
+        "contract_end": "30.06.2026",
+        "market_value": "1,80 Mio. €"
+      },
+      {
+        "name": "Lukas Ullrich",
+        "position": "Linker Verteidiger",
+        "age": 22,
+        "dob": "16.03.2004",
+        "contract_end": "01.07.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Joe Scally",
+        "position": "Rechter Verteidiger",
+        "age": 23,
+        "dob": "31.12.2002",
+        "contract_end": "30.06.2027",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Yannik Engelhardt",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "07.02.2001",
+        "contract_end": "01.09.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Philipp Sander",
+        "position": "Defensives Mittelfeld",
+        "age": 28,
+        "dob": "21.02.1998",
+        "contract_end": "01.07.2024",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Niklas Swider",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "05.01.2007",
+        "contract_end": "17.12.2024",
+        "market_value": "250 Tsd. €"
+      },
+      {
+        "name": "Rocco Reitz",
+        "position": "Zentrales Mittelfeld",
+        "age": 23,
+        "dob": "29.05.2002",
+        "contract_end": "30.06.2028",
+        "market_value": "20,00 Mio. €"
+      },
+      {
+        "name": "Jens Castrop",
+        "position": "Zentrales Mittelfeld",
+        "age": 22,
+        "dob": "29.07.2003",
+        "contract_end": "01.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Florian Neuhaus",
+        "position": "Zentrales Mittelfeld",
+        "age": 29,
+        "dob": "16.03.1997",
+        "contract_end": "30.06.2027",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Wael Mohya",
+        "position": "Offensives Mittelfeld",
+        "age": 17,
+        "dob": "31.12.2008",
+        "contract_end": "06.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Giovanni Reyna",
+        "position": "Offensives Mittelfeld",
+        "age": 23,
+        "dob": "13.11.2002",
+        "contract_end": "23.08.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Kevin Stöger",
+        "position": "Offensives Mittelfeld",
+        "age": 32,
+        "dob": "27.08.1993",
+        "contract_end": "01.07.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Robin Hack",
+        "position": "Linksaußen",
+        "age": 27,
+        "dob": "27.08.1998",
+        "contract_end": "01.07.2023",
+        "market_value": "9,00 Mio. €"
+      },
+      {
+        "name": "Hugo Bolin",
+        "position": "Linksaußen",
+        "age": 22,
+        "dob": "24.07.2003",
+        "contract_end": "02.02.2026",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Franck Honorat",
+        "position": "Rechtsaußen",
+        "age": 29,
+        "dob": "11.08.1996",
+        "contract_end": "11.07.2023",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Nathan Ngoumou",
+        "position": "Rechtsaußen",
+        "age": 26,
+        "dob": "14.03.2000",
+        "contract_end": "30.06.2027",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Tim Kleindienst",
+        "position": "Mittelstürmer",
+        "age": 30,
+        "dob": "31.08.1995",
+        "contract_end": "01.07.2024",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Shuto Machino",
+        "position": "Mittelstürmer",
+        "age": 26,
+        "dob": "30.09.1999",
+        "contract_end": "26.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Haris Tabakovic",
+        "position": "Mittelstürmer",
+        "age": 31,
+        "dob": "20.06.1994",
+        "contract_end": "18.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Alejo Sarco",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "06.01.2006",
+        "contract_end": "20.01.2026",
+        "market_value": "2,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "tm_id": 82,
+    "avg_age": 25.2,
+    "expiring_2026": 9,
+    "expiring_2027": 4,
+    "expiring_2028_plus": 1,
+    "players": [
+      {
+        "name": "Kamil Grabara",
+        "position": "Torwart",
+        "age": 27,
+        "dob": "08.01.1999",
+        "contract_end": "01.07.2024",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Marius Müller",
+        "position": "Torwart",
+        "age": 32,
+        "dob": "12.07.1993",
+        "contract_end": "01.07.2024",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Jakub Zielinski",
+        "position": "Torwart",
+        "age": 18,
+        "dob": "21.02.2008",
+        "contract_end": "01.07.2025",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Pavao Pervan",
+        "position": "Torwart",
+        "age": 38,
+        "dob": "13.11.1987",
+        "contract_end": "30.06.2027",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Konstantinos Koulierakis",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "28.11.2003",
+        "contract_end": "30.08.2024",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Jeanuël Belocian",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "17.02.2005",
+        "contract_end": "02.02.2026",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Jonas Adjetey",
+        "position": "Innenverteidiger",
+        "age": 22,
+        "dob": "13.12.2003",
+        "contract_end": "02.02.2026",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Denis Vavro",
+        "position": "Innenverteidiger",
+        "age": 30,
+        "dob": "10.04.1996",
+        "contract_end": "01.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Jenson Seelt",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "23.05.2003",
+        "contract_end": "01.09.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Moritz Jenz",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "30.04.1999",
+        "contract_end": "01.07.2023",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Cleiton",
+        "position": "Innenverteidiger",
+        "age": 23,
+        "dob": "25.04.2003",
+        "contract_end": "01.01.2026",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Joakim Maehle",
+        "position": "Linker Verteidiger",
+        "age": 29,
+        "dob": "20.05.1997",
+        "contract_end": "12.08.2023",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Aaron Zehnter",
+        "position": "Linker Verteidiger",
+        "age": 21,
+        "dob": "31.10.2004",
+        "contract_end": "01.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Rogério",
+        "position": "Linker Verteidiger",
+        "age": 28,
+        "dob": "13.01.1998",
+        "contract_end": "05.08.2023",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Saël Kumbedi",
+        "position": "Rechter Verteidiger",
+        "age": 21,
+        "dob": "26.03.2005",
+        "contract_end": "01.01.2026",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Kilian Fischer",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "12.10.2000",
+        "contract_end": "30.06.2027",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Jan Bürger",
+        "position": "Rechter Verteidiger",
+        "age": 19,
+        "dob": "10.03.2007",
+        "contract_end": "30.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Vini Souza",
+        "position": "Defensives Mittelfeld",
+        "age": 26,
+        "dob": "17.06.1999",
+        "contract_end": "05.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Mattias Svanberg",
+        "position": "Zentrales Mittelfeld",
+        "age": 27,
+        "dob": "05.01.1999",
+        "contract_end": "30.06.2027",
+        "market_value": "9,00 Mio. €"
+      },
+      {
+        "name": "Maximilian Arnold",
+        "position": "Zentrales Mittelfeld",
+        "age": 31,
+        "dob": "27.05.1994",
+        "contract_end": "30.06.2028",
+        "market_value": "4,50 Mio. €"
+      },
+      {
+        "name": "Pharell Hensel",
+        "position": "Zentrales Mittelfeld",
+        "age": 18,
+        "dob": "08.06.2007",
+        "contract_end": "15.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Yannick Gerhardt",
+        "position": "Zentrales Mittelfeld",
+        "age": 32,
+        "dob": "13.03.1994",
+        "contract_end": "",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Kevin Paredes",
+        "position": "Linkes Mittelfeld",
+        "age": 23,
+        "dob": "07.05.2003",
+        "contract_end": "30.06.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Lovro Majer",
+        "position": "Offensives Mittelfeld",
+        "age": 28,
+        "dob": "17.01.1998",
+        "contract_end": "16.08.2023",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Bence Dárdai",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "24.01.2006",
+        "contract_end": "01.07.2024",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Christian Eriksen",
+        "position": "Offensives Mittelfeld",
+        "age": 34,
+        "dob": "14.02.1992",
+        "contract_end": "10.09.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Patrick Wimmer",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "30.05.2001",
+        "contract_end": "30.06.2027",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Adam Daghim",
+        "position": "Rechtsaußen",
+        "age": 20,
+        "dob": "28.09.2005",
+        "contract_end": "01.09.2025",
+        "market_value": "7,50 Mio. €"
+      },
+      {
+        "name": "Jesper Lindstrøm",
+        "position": "Rechtsaußen",
+        "age": 26,
+        "dob": "29.02.2000",
+        "contract_end": "23.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Mohamed Amoura",
+        "position": "Mittelstürmer",
+        "age": 26,
+        "dob": "09.05.2000",
+        "contract_end": "01.07.2025",
+        "market_value": "27,00 Mio. €"
+      },
+      {
+        "name": "Dzenan Pejcinovic",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "15.02.2005",
+        "contract_end": "30.06.2029",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Kento Shiogai",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "26.03.2005",
+        "contract_end": "20.01.2026",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Jonas Wind",
+        "position": "Mittelstürmer",
+        "age": 27,
+        "dob": "07.02.1999",
+        "contract_end": "30.06.2026",
+        "market_value": "5,00 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "Werder Bremen",
+    "tm_id": 86,
+    "avg_age": 25.0,
+    "expiring_2026": 3,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 3,
+    "players": [
+      {
+        "name": "Mio Backhaus",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "16.04.2004",
+        "contract_end": "30.06.2028",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Karl Hein",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "13.04.2002",
+        "contract_end": "22.08.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Markus Kolke",
+        "position": "Torwart",
+        "age": 35,
+        "dob": "18.08.1990",
+        "contract_end": "01.07.2024",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Stefan Smarkalev",
+        "position": "Torwart",
+        "age": 19,
+        "dob": "14.05.2007",
+        "contract_end": "30.06.2027",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Karim Coulibaly",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "23.05.2007",
+        "contract_end": "16.07.2025",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Marco Friedl",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "16.03.1998",
+        "contract_end": "30.06.2028",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Amos Pieper",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "17.01.1998",
+        "contract_end": "",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Niklas Stark",
+        "position": "Innenverteidiger",
+        "age": 31,
+        "dob": "14.04.1995",
+        "contract_end": "",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Maximilian Wöber",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "04.02.1998",
+        "contract_end": "04.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Julián Malatini",
+        "position": "Innenverteidiger",
+        "age": 24,
+        "dob": "31.05.2001",
+        "contract_end": "16.01.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Mick Schmetgens",
+        "position": "Innenverteidiger",
+        "age": 18,
+        "dob": "09.09.2007",
+        "contract_end": "10.12.2025",
+        "market_value": "700 Tsd. €"
+      },
+      {
+        "name": "Felix Agu",
+        "position": "Linker Verteidiger",
+        "age": 26,
+        "dob": "27.09.1999",
+        "contract_end": "30.06.2027",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Olivier Deman",
+        "position": "Linker Verteidiger",
+        "age": 26,
+        "dob": "06.04.2000",
+        "contract_end": "31.08.2023",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Isaac Schmidt",
+        "position": "Linker Verteidiger",
+        "age": 26,
+        "dob": "07.12.1999",
+        "contract_end": "28.08.2025",
+        "market_value": "2,20 Mio. €"
+      },
+      {
+        "name": "Yukinari Sugawara",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "28.06.2000",
+        "contract_end": "26.08.2025",
+        "market_value": "7,50 Mio. €"
+      },
+      {
+        "name": "Mitchell Weiser",
+        "position": "Rechter Verteidiger",
+        "age": 32,
+        "dob": "21.04.1994",
+        "contract_end": "30.06.2026",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Senne Lynen",
+        "position": "Defensives Mittelfeld",
+        "age": 27,
+        "dob": "19.02.1999",
+        "contract_end": "08.08.2023",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Wesley Adeh",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "08.01.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "250 Tsd. €"
+      },
+      {
+        "name": "Jens Stage",
+        "position": "Zentrales Mittelfeld",
+        "age": 29,
+        "dob": "08.11.1996",
+        "contract_end": "30.06.2028",
+        "market_value": "14,00 Mio. €"
+      },
+      {
+        "name": "Cameron Puertas",
+        "position": "Zentrales Mittelfeld",
+        "age": 27,
+        "dob": "18.08.1998",
+        "contract_end": "01.09.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Leonardo Bittencourt",
+        "position": "Zentrales Mittelfeld",
+        "age": 32,
+        "dob": "19.12.1993",
+        "contract_end": "30.06.2026",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Romano Schmid",
+        "position": "Offensives Mittelfeld",
+        "age": 26,
+        "dob": "27.01.2000",
+        "contract_end": "30.06.2027",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Patrice Covic",
+        "position": "Offensives Mittelfeld",
+        "age": 18,
+        "dob": "25.06.2007",
+        "contract_end": "08.07.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Samuel Mbangula",
+        "position": "Linksaußen",
+        "age": 22,
+        "dob": "16.01.2004",
+        "contract_end": "23.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Marco Grüll",
+        "position": "Linksaußen",
+        "age": 27,
+        "dob": "06.07.1998",
+        "contract_end": "01.07.2024",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Justin Njinmah",
+        "position": "Rechtsaußen",
+        "age": 25,
+        "dob": "15.11.2000",
+        "contract_end": "",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Jovan Milosevic",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "31.07.2005",
+        "contract_end": "11.01.2026",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Victor Boniface",
+        "position": "Mittelstürmer",
+        "age": 25,
+        "dob": "23.12.2000",
+        "contract_end": "01.09.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Keke Topp",
+        "position": "Mittelstürmer",
+        "age": 22,
+        "dob": "25.03.2004",
+        "contract_end": "01.07.2024",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Salim Musah",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "22.02.2006",
+        "contract_end": "06.07.2025",
+        "market_value": "500 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "Hamburger SV",
+    "tm_id": 41,
+    "avg_age": 24.6,
+    "expiring_2026": 7,
+    "expiring_2027": 4,
+    "expiring_2028_plus": 0,
+    "players": [
+      {
+        "name": "Sander Tangvik",
+        "position": "Torwart",
+        "age": 23,
+        "dob": "29.11.2002",
+        "contract_end": "22.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Daniel Heuer Fernandes",
+        "position": "Torwart",
+        "age": 33,
+        "dob": "13.11.1992",
+        "contract_end": "30.06.2027",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Hannes Hermann",
+        "position": "Torwart",
+        "age": 21,
+        "dob": "23.03.2005",
+        "contract_end": "01.07.2024",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Fernando Dickes",
+        "position": "Torwart",
+        "age": 18,
+        "dob": "13.10.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "-"
+      },
+      {
+        "name": "Luka Vuskovic",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "24.02.2007",
+        "contract_end": "29.08.2025",
+        "market_value": "60,00 Mio. €"
+      },
+      {
+        "name": "Nicolás Capaldo",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "14.09.1998",
+        "contract_end": "10.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Jordan Torunarigha",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "07.08.1997",
+        "contract_end": "01.07.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Daniel Elfadli",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "06.04.1997",
+        "contract_end": "01.07.2024",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Warmed Omari",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "23.04.2000",
+        "contract_end": "02.02.2026",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Shafiq Nandja",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "15.01.2007",
+        "contract_end": "",
+        "market_value": "175 Tsd. €"
+      },
+      {
+        "name": "Miro Muheim",
+        "position": "Linker Verteidiger",
+        "age": 28,
+        "dob": "24.03.1998",
+        "contract_end": "30.06.2027",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Noah Katterbach",
+        "position": "Linker Verteidiger",
+        "age": 25,
+        "dob": "13.04.2001",
+        "contract_end": "31.01.2024",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "William Mikelbrencis",
+        "position": "Rechter Verteidiger",
+        "age": 22,
+        "dob": "25.02.2004",
+        "contract_end": "30.06.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Giorgi Gocholeishvili",
+        "position": "Rechter Verteidiger",
+        "age": 25,
+        "dob": "14.02.2001",
+        "contract_end": "07.08.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Nicolai Remberg",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "19.06.2000",
+        "contract_end": "01.07.2025",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Albert Sambi Lokonga",
+        "position": "Zentrales Mittelfeld",
+        "age": 26,
+        "dob": "22.10.1999",
+        "contract_end": "01.09.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Fábio Vieira",
+        "position": "Offensives Mittelfeld",
+        "age": 25,
+        "dob": "30.05.2000",
+        "contract_end": "01.09.2025",
+        "market_value": "18,00 Mio. €"
+      },
+      {
+        "name": "Albert Grønbæk",
+        "position": "Offensives Mittelfeld",
+        "age": 25,
+        "dob": "23.05.2001",
+        "contract_end": "31.01.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Omar Megeed",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "19.08.2005",
+        "contract_end": "01.07.2023",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Philip Otele",
+        "position": "Linksaußen",
+        "age": 27,
+        "dob": "15.04.1999",
+        "contract_end": "02.02.2026",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Alexander Røssing-Lelesiit",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "20.01.2007",
+        "contract_end": "03.02.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Jean-Luc Dompé",
+        "position": "Linksaußen",
+        "age": 30,
+        "dob": "12.08.1995",
+        "contract_end": "30.06.2027",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Fábio Baldé",
+        "position": "Linksaußen",
+        "age": 20,
+        "dob": "20.07.2005",
+        "contract_end": "01.07.2024",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Rayan Philippe",
+        "position": "Rechtsaußen",
+        "age": 25,
+        "dob": "23.10.2000",
+        "contract_end": "02.07.2025",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Bakery Jatta",
+        "position": "Rechtsaußen",
+        "age": 27,
+        "dob": "06.06.1998",
+        "contract_end": "30.06.2029",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Damion Downs",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "06.07.2004",
+        "contract_end": "07.01.2026",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Ransford Königsdörffer",
+        "position": "Mittelstürmer",
+        "age": 24,
+        "dob": "13.09.2001",
+        "contract_end": "30.06.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Otto Stange",
+        "position": "Mittelstürmer",
+        "age": 19,
+        "dob": "09.02.2007",
+        "contract_end": "09.11.2024",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Robert Glatzel",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "08.01.1994",
+        "contract_end": "30.06.2027",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Yussuf Poulsen",
+        "position": "Mittelstürmer",
+        "age": 31,
+        "dob": "15.06.1994",
+        "contract_end": "13.07.2025",
+        "market_value": "1,50 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "FC Augsburg",
+    "tm_id": 167,
+    "avg_age": 25.2,
+    "expiring_2026": 8,
+    "expiring_2027": 2,
+    "expiring_2028_plus": 0,
+    "players": [
+      {
+        "name": "Finn Dahmen",
+        "position": "Torwart",
+        "age": 28,
+        "dob": "27.03.1998",
+        "contract_end": "01.07.2023",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Nediljko Labrovic",
+        "position": "Torwart",
+        "age": 26,
+        "dob": "10.10.1999",
+        "contract_end": "01.07.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Daniel Klein",
+        "position": "Torwart",
+        "age": 25,
+        "dob": "13.03.2001",
+        "contract_end": "30.06.2026",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Chrislain Matsima",
+        "position": "Innenverteidiger",
+        "age": 24,
+        "dob": "15.05.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Noahkai Banks",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "01.12.2006",
+        "contract_end": "10.07.2024",
+        "market_value": "22,00 Mio. €"
+      },
+      {
+        "name": "Keven Schlotterbeck",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "28.04.1997",
+        "contract_end": "01.07.2024",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Cédric Zesiger",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "24.06.1998",
+        "contract_end": "01.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Arthur Chaves",
+        "position": "Innenverteidiger",
+        "age": 25,
+        "dob": "29.01.2001",
+        "contract_end": "22.01.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Jeffrey Gouweleeuw",
+        "position": "Innenverteidiger",
+        "age": 34,
+        "dob": "10.07.1991",
+        "contract_end": "30.06.2027",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Felix Meiser",
+        "position": "Innenverteidiger",
+        "age": 19,
+        "dob": "16.01.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Dimitrios Giannoulis",
+        "position": "Linker Verteidiger",
+        "age": 30,
+        "dob": "17.10.1995",
+        "contract_end": "23.07.2024",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Mads Pedersen",
+        "position": "Linker Verteidiger",
+        "age": 29,
+        "dob": "01.09.1996",
+        "contract_end": "30.06.2027",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Oliver Sorg",
+        "position": "Linker Verteidiger",
+        "age": 18,
+        "dob": "31.07.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "400 Tsd. €"
+      },
+      {
+        "name": "Marius Wolf",
+        "position": "Rechter Verteidiger",
+        "age": 30,
+        "dob": "27.05.1995",
+        "contract_end": "08.08.2024",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Kristijan Jakic",
+        "position": "Defensives Mittelfeld",
+        "age": 29,
+        "dob": "14.05.1997",
+        "contract_end": "01.07.2024",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Robin Fellhauer",
+        "position": "Defensives Mittelfeld",
+        "age": 28,
+        "dob": "21.01.1998",
+        "contract_end": "01.07.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Yannik Keitel",
+        "position": "Defensives Mittelfeld",
+        "age": 26,
+        "dob": "15.02.2000",
+        "contract_end": "03.01.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Mahmut Kücüksahin",
+        "position": "Defensives Mittelfeld",
+        "age": 22,
+        "dob": "07.04.2004",
+        "contract_end": "17.07.2024",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Han-Noah Massengo",
+        "position": "Zentrales Mittelfeld",
+        "age": 24,
+        "dob": "07.07.2001",
+        "contract_end": "15.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Elvis Rexhbecaj",
+        "position": "Zentrales Mittelfeld",
+        "age": 28,
+        "dob": "01.11.1997",
+        "contract_end": "30.06.2026",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Alexis Claude-Maurice",
+        "position": "Offensives Mittelfeld",
+        "age": 27,
+        "dob": "06.06.1998",
+        "contract_end": "30.08.2024",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Mert Kömür",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "17.07.2005",
+        "contract_end": "01.07.2023",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Fabian Rieder",
+        "position": "Offensives Mittelfeld",
+        "age": 24,
+        "dob": "16.02.2002",
+        "contract_end": "01.09.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Anton Kade",
+        "position": "Offensives Mittelfeld",
+        "age": 22,
+        "dob": "17.01.2004",
+        "contract_end": "25.08.2025",
+        "market_value": "7,50 Mio. €"
+      },
+      {
+        "name": "Ismaël Gharbi",
+        "position": "Linksaußen",
+        "age": 22,
+        "dob": "10.04.2004",
+        "contract_end": "01.09.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Rodrigo Ribeiro",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "28.04.2005",
+        "contract_end": "15.01.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Uchenna Ogundu",
+        "position": "Mittelstürmer",
+        "age": 20,
+        "dob": "12.05.2006",
+        "contract_end": "02.02.2026",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Michael Gregoritsch",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "18.04.1994",
+        "contract_end": "07.01.2026",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Thomas Kastanaras",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "09.01.2003",
+        "contract_end": "02.02.2026",
+        "market_value": "300 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "1. FC Heidenheim",
+    "tm_id": 2036,
+    "avg_age": 26.0,
+    "expiring_2026": 5,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 2,
+    "players": [
+      {
+        "name": "Diant Ramaj",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "19.09.2001",
+        "contract_end": "28.07.2025",
+        "market_value": "7,00 Mio. €"
+      },
+      {
+        "name": "Frank Feller",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "07.01.2004",
+        "contract_end": "01.07.2023",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Paul Tschernuth",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "20.01.2002",
+        "contract_end": "30.06.2027",
+        "market_value": "100 Tsd. €"
+      },
+      {
+        "name": "Tim Siersleben",
+        "position": "Innenverteidiger",
+        "age": 26,
+        "dob": "09.03.2000",
+        "contract_end": "01.07.2023",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Patrick Mainka",
+        "position": "Innenverteidiger",
+        "age": 31,
+        "dob": "06.11.1994",
+        "contract_end": "30.06.2029",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Benedikt Gimber",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "19.02.1997",
+        "contract_end": "01.07.2023",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Adam Kölle",
+        "position": "Innenverteidiger",
+        "age": 20,
+        "dob": "28.04.2006",
+        "contract_end": "01.07.2025",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Hennes Behrens",
+        "position": "Linker Verteidiger",
+        "age": 21,
+        "dob": "19.01.2005",
+        "contract_end": "02.01.2026",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Jonas Föhrenbach",
+        "position": "Linker Verteidiger",
+        "age": 30,
+        "dob": "26.01.1996",
+        "contract_end": "30.06.2027",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Leart Paçarada",
+        "position": "Linker Verteidiger",
+        "age": 31,
+        "dob": "08.10.1994",
+        "contract_end": "28.08.2025",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Leonidas Stergiou",
+        "position": "Rechter Verteidiger",
+        "age": 24,
+        "dob": "03.03.2002",
+        "contract_end": "15.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Omar Traoré",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "04.02.1998",
+        "contract_end": "01.07.2023",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Marnon Busch",
+        "position": "Rechter Verteidiger",
+        "age": 31,
+        "dob": "08.12.1994",
+        "contract_end": "30.06.2027",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Niklas Dorsch",
+        "position": "Defensives Mittelfeld",
+        "age": 28,
+        "dob": "15.01.1998",
+        "contract_end": "30.08.2024",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Julian Niehues",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "17.04.2001",
+        "contract_end": "01.07.2024",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Jan Schöppner",
+        "position": "Zentrales Mittelfeld",
+        "age": 26,
+        "dob": "12.06.1999",
+        "contract_end": "30.06.2028",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Luca Kerber",
+        "position": "Zentrales Mittelfeld",
+        "age": 24,
+        "dob": "10.03.2002",
+        "contract_end": "01.07.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Nick Rothweiler",
+        "position": "Zentrales Mittelfeld",
+        "age": 19,
+        "dob": "16.06.2006",
+        "contract_end": "01.07.2025",
+        "market_value": "250 Tsd. €"
+      },
+      {
+        "name": "Arijon Ibrahimovic",
+        "position": "Offensives Mittelfeld",
+        "age": 20,
+        "dob": "11.12.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Adrian Beck",
+        "position": "Offensives Mittelfeld",
+        "age": 28,
+        "dob": "09.06.1997",
+        "contract_end": "30.06.2028",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Mathias Honsak",
+        "position": "Linksaußen",
+        "age": 29,
+        "dob": "20.12.1996",
+        "contract_end": "01.07.2024",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Yannik Wagner",
+        "position": "Linksaußen",
+        "age": 19,
+        "dob": "09.05.2007",
+        "contract_end": "30.07.2025",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Eren Dinkçi",
+        "position": "Rechtsaußen",
+        "age": 24,
+        "dob": "13.12.2001",
+        "contract_end": "30.01.2026",
+        "market_value": "6,00 Mio. €"
+      },
+      {
+        "name": "Christian Conteh",
+        "position": "Rechtsaußen",
+        "age": 26,
+        "dob": "27.08.1999",
+        "contract_end": "12.01.2026",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Sirlord Conteh",
+        "position": "Rechtsaußen",
+        "age": 29,
+        "dob": "09.07.1996",
+        "contract_end": "01.07.2024",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Marvin Pieringer",
+        "position": "Mittelstürmer",
+        "age": 26,
+        "dob": "04.10.1999",
+        "contract_end": "03.07.2023",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Mikkel Kaufmann",
+        "position": "Mittelstürmer",
+        "age": 25,
+        "dob": "03.01.2001",
+        "contract_end": "01.07.2024",
+        "market_value": "1,80 Mio. €"
+      },
+      {
+        "name": "Budu Zivzivadze",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "10.03.1994",
+        "contract_end": "03.01.2025",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Stefan Schimmer",
+        "position": "Mittelstürmer",
+        "age": 32,
+        "dob": "28.04.1994",
+        "contract_end": "30.06.2026",
+        "market_value": "500 Tsd. €"
+      }
+    ]
+  },
+  {
+    "name": "1. FSV Mainz 05",
+    "tm_id": 39,
+    "avg_age": 26.9,
+    "expiring_2026": 7,
+    "expiring_2027": 4,
+    "expiring_2028_plus": 3,
+    "players": [
+      {
+        "name": "Robin Zentner",
+        "position": "Torwart",
+        "age": 31,
+        "dob": "28.10.1994",
+        "contract_end": "30.06.2028",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Lasse Rieß",
+        "position": "Torwart",
+        "age": 24,
+        "dob": "27.07.2001",
+        "contract_end": "30.06.2027",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Daniel Batz",
+        "position": "Torwart",
+        "age": 35,
+        "dob": "12.01.1991",
+        "contract_end": "01.07.2023",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Kacper Potulski",
+        "position": "Innenverteidiger",
+        "age": 18,
+        "dob": "19.10.2007",
+        "contract_end": "01.01.2026",
+        "market_value": "12,00 Mio. €"
+      },
+      {
+        "name": "Stefan Posch",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "14.05.1997",
+        "contract_end": "22.01.2026",
+        "market_value": "5,50 Mio. €"
+      },
+      {
+        "name": "Andreas Hanche-Olsen",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "17.01.1997",
+        "contract_end": "13.01.2023",
+        "market_value": "4,00 Mio. €"
+      },
+      {
+        "name": "Dominik Kohr",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "31.01.1994",
+        "contract_end": "30.06.2028",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Danny da Costa",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "13.07.1993",
+        "contract_end": "30.06.2027",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Maxim Leitsch",
+        "position": "Innenverteidiger",
+        "age": 28,
+        "dob": "18.05.1998",
+        "contract_end": "30.06.2026",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Stefan Bell",
+        "position": "Innenverteidiger",
+        "age": 34,
+        "dob": "24.08.1991",
+        "contract_end": "30.06.2027",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Maxim Dal",
+        "position": "Innenverteidiger",
+        "age": 20,
+        "dob": "26.01.2006",
+        "contract_end": "01.07.2025",
+        "market_value": "150 Tsd. €"
+      },
+      {
+        "name": "Phillipp Mwene",
+        "position": "Linker Verteidiger",
+        "age": 32,
+        "dob": "29.01.1994",
+        "contract_end": "23.08.2023",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Kasey Bos",
+        "position": "Linker Verteidiger",
+        "age": 22,
+        "dob": "08.05.2004",
+        "contract_end": "01.07.2025",
+        "market_value": "450 Tsd. €"
+      },
+      {
+        "name": "Anthony Caci",
+        "position": "Rechter Verteidiger",
+        "age": 28,
+        "dob": "01.07.1997",
+        "contract_end": "30.06.2028",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "Silvan Widmer",
+        "position": "Rechter Verteidiger",
+        "age": 33,
+        "dob": "05.03.1993",
+        "contract_end": "",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Kaishu Sano",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "30.12.2000",
+        "contract_end": "03.07.2024",
+        "market_value": "25,00 Mio. €"
+      },
+      {
+        "name": "Lennard Maloney",
+        "position": "Defensives Mittelfeld",
+        "age": 26,
+        "dob": "08.10.1999",
+        "contract_end": "21.01.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Sota Kawasaki",
+        "position": "Defensives Mittelfeld",
+        "age": 24,
+        "dob": "30.07.2001",
+        "contract_end": "09.07.2025",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Niklas Tauer",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "17.02.2001",
+        "contract_end": "30.06.2026",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Nadiem Amiri",
+        "position": "Zentrales Mittelfeld",
+        "age": 29,
+        "dob": "27.10.1996",
+        "contract_end": "31.01.2024",
+        "market_value": "17,00 Mio. €"
+      },
+      {
+        "name": "Daniel Gleiber",
+        "position": "Zentrales Mittelfeld",
+        "age": 21,
+        "dob": "01.02.2005",
+        "contract_end": "01.07.2025",
+        "market_value": "300 Tsd. €"
+      },
+      {
+        "name": "Nikolas Veratschnig",
+        "position": "Rechtes Mittelfeld",
+        "age": 23,
+        "dob": "24.01.2003",
+        "contract_end": "01.07.2024",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Paul Nebel",
+        "position": "Offensives Mittelfeld",
+        "age": 23,
+        "dob": "10.10.2002",
+        "contract_end": "30.06.2027",
+        "market_value": "15,00 Mio. €"
+      },
+      {
+        "name": "Jae-sung Lee",
+        "position": "Offensives Mittelfeld",
+        "age": 33,
+        "dob": "10.08.1992",
+        "contract_end": "",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Sheraldo Becker",
+        "position": "Linksaußen",
+        "age": 31,
+        "dob": "09.02.1995",
+        "contract_end": "02.02.2026",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Silas",
+        "position": "Rechtsaußen",
+        "age": 27,
+        "dob": "06.10.1998",
+        "contract_end": "06.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Armindo Sieb",
+        "position": "Hängende Spitze",
+        "age": 23,
+        "dob": "17.02.2003",
+        "contract_end": "02.07.2024",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Nelson Weiper",
+        "position": "Mittelstürmer",
+        "age": 21,
+        "dob": "17.03.2005",
+        "contract_end": "30.06.2029",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Benedict Hollerbach",
+        "position": "Mittelstürmer",
+        "age": 25,
+        "dob": "17.05.2001",
+        "contract_end": "01.07.2025",
+        "market_value": "8,00 Mio. €"
+      },
+      {
+        "name": "William Bøving",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "01.03.2003",
+        "contract_end": "01.09.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Phillip Tietz",
+        "position": "Mittelstürmer",
+        "age": 28,
+        "dob": "09.07.1997",
+        "contract_end": "02.01.2026",
+        "market_value": "3,50 Mio. €"
+      }
+    ]
+  },
+  {
+    "name": "FC St. Pauli",
+    "tm_id": 35,
+    "avg_age": 25.9,
+    "expiring_2026": 4,
+    "expiring_2027": 3,
+    "expiring_2028_plus": 0,
+    "players": [
+      {
+        "name": "Nikola Vasilj",
+        "position": "Torwart",
+        "age": 30,
+        "dob": "02.12.1995",
+        "contract_end": "",
+        "market_value": "4,50 Mio. €"
+      },
+      {
+        "name": "Ben Voll",
+        "position": "Torwart",
+        "age": 25,
+        "dob": "09.12.2000",
+        "contract_end": "01.07.2024",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "Simon Spari",
+        "position": "Torwart",
+        "age": 23,
+        "dob": "16.06.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "350 Tsd. €"
+      },
+      {
+        "name": "Emil Gazdov",
+        "position": "Torwart",
+        "age": 22,
+        "dob": "11.09.2003",
+        "contract_end": "04.01.2026",
+        "market_value": "175 Tsd. €"
+      },
+      {
+        "name": "Eric Smith",
+        "position": "Innenverteidiger",
+        "age": 29,
+        "dob": "08.01.1997",
+        "contract_end": "30.06.2027",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "David Nemeth",
+        "position": "Innenverteidiger",
+        "age": 25,
+        "dob": "18.03.2001",
+        "contract_end": "",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Tomoya Ando",
+        "position": "Innenverteidiger",
+        "age": 27,
+        "dob": "10.01.1999",
+        "contract_end": "01.01.2026",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Hauke Wahl",
+        "position": "Innenverteidiger",
+        "age": 32,
+        "dob": "15.04.1994",
+        "contract_end": "01.07.2023",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Adam Dzwigala",
+        "position": "Innenverteidiger",
+        "age": 30,
+        "dob": "25.09.1995",
+        "contract_end": "30.06.2027",
+        "market_value": "900 Tsd. €"
+      },
+      {
+        "name": "Karol Mets",
+        "position": "Innenverteidiger",
+        "age": 33,
+        "dob": "16.05.1993",
+        "contract_end": "01.07.2023",
+        "market_value": "800 Tsd. €"
+      },
+      {
+        "name": "Jannik Robatsch",
+        "position": "Innenverteidiger",
+        "age": 21,
+        "dob": "28.12.2004",
+        "contract_end": "01.07.2025",
+        "market_value": "600 Tsd. €"
+      },
+      {
+        "name": "Louis Oppie",
+        "position": "Linker Verteidiger",
+        "age": 24,
+        "dob": "17.05.2002",
+        "contract_end": "11.07.2025",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Lars Ritzka",
+        "position": "Linker Verteidiger",
+        "age": 28,
+        "dob": "07.05.1998",
+        "contract_end": "",
+        "market_value": "1,00 Mio. €"
+      },
+      {
+        "name": "Arkadiusz Pyrka",
+        "position": "Rechter Verteidiger",
+        "age": 23,
+        "dob": "20.09.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Manolis Saliakas",
+        "position": "Rechter Verteidiger",
+        "age": 29,
+        "dob": "12.09.1996",
+        "contract_end": "",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Fin Stevens",
+        "position": "Rechter Verteidiger",
+        "age": 23,
+        "dob": "10.04.2003",
+        "contract_end": "26.07.2024",
+        "market_value": "500 Tsd. €"
+      },
+      {
+        "name": "James Sands",
+        "position": "Defensives Mittelfeld",
+        "age": 25,
+        "dob": "06.07.2000",
+        "contract_end": "01.01.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Marwin Schmitz",
+        "position": "Defensives Mittelfeld",
+        "age": 19,
+        "dob": "07.01.2007",
+        "contract_end": "16.01.2025",
+        "market_value": "200 Tsd. €"
+      },
+      {
+        "name": "Joel Chima Fujita",
+        "position": "Zentrales Mittelfeld",
+        "age": 24,
+        "dob": "16.02.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "10,00 Mio. €"
+      },
+      {
+        "name": "Mathias Rasmussen",
+        "position": "Zentrales Mittelfeld",
+        "age": 28,
+        "dob": "25.11.1997",
+        "contract_end": "24.01.2026",
+        "market_value": "2,50 Mio. €"
+      },
+      {
+        "name": "Connor Metcalfe",
+        "position": "Zentrales Mittelfeld",
+        "age": 26,
+        "dob": "05.11.1999",
+        "contract_end": "",
+        "market_value": "2,00 Mio. €"
+      },
+      {
+        "name": "Jackson Irvine",
+        "position": "Zentrales Mittelfeld",
+        "age": 33,
+        "dob": "07.03.1993",
+        "contract_end": "30.06.2027",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Nick Schmidt",
+        "position": "Zentrales Mittelfeld",
+        "age": 18,
+        "dob": "12.09.2007",
+        "contract_end": "01.07.2025",
+        "market_value": "125 Tsd. €"
+      },
+      {
+        "name": "Danel Sinani",
+        "position": "Offensives Mittelfeld",
+        "age": 29,
+        "dob": "05.04.1997",
+        "contract_end": "04.07.2023",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Mathias Pereira Lage",
+        "position": "Linksaußen",
+        "age": 29,
+        "dob": "30.11.1996",
+        "contract_end": "01.07.2025",
+        "market_value": "3,50 Mio. €"
+      },
+      {
+        "name": "Andréas Hountondji",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "11.07.2002",
+        "contract_end": "08.07.2025",
+        "market_value": "5,00 Mio. €"
+      },
+      {
+        "name": "Martijn Kaars",
+        "position": "Mittelstürmer",
+        "age": 27,
+        "dob": "05.03.1999",
+        "contract_end": "28.08.2025",
+        "market_value": "3,00 Mio. €"
+      },
+      {
+        "name": "Taichi Hara",
+        "position": "Mittelstürmer",
+        "age": 27,
+        "dob": "05.05.1999",
+        "contract_end": "31.01.2026",
+        "market_value": "1,50 Mio. €"
+      },
+      {
+        "name": "Ricky-Jade Jones",
+        "position": "Mittelstürmer",
+        "age": 23,
+        "dob": "08.11.2002",
+        "contract_end": "01.07.2025",
+        "market_value": "1,20 Mio. €"
+      },
+      {
+        "name": "Abdoulie Ceesay",
+        "position": "Mittelstürmer",
+        "age": 22,
+        "dob": "05.01.2004",
+        "contract_end": "03.01.2025",
+        "market_value": "800 Tsd. €"
+      }
+    ]
+  }
+]

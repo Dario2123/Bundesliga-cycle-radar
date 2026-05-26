@@ -3,16 +3,36 @@
     "name": "FC Bayern München",
     "pos": "1. Platz",
     "phase": "prime",
-    "age": 26.1,
+    "age": 26.5,
     "expiring26": 2,
-    "expiring27": 4,
-    "expiring28": 7,
+    "expiring27": 3,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Harry Kane", "risk": "watch", "note": "Vertrag bis 2027, Ausstiegsklausel 65M" },
-      { "name": "Jamal Musiala", "risk": "ok", "note": "Langfristig gebunden bis 2030" },
-      { "name": "Manuel Neuer", "risk": "risk", "note": "36 J., Karriereende absehbar" },
-      { "name": "Joshua Kimmich", "risk": "ok", "note": "Verlängert bis 2029" },
-      { "name": "Alphonso Davies", "risk": "watch", "note": "Vertrag offen" }
+      {
+        "name": "Harry Kane",
+        "risk": "watch",
+        "note": "Vertrag bis 2027, Ausstiegsklausel 65M"
+      },
+      {
+        "name": "Jamal Musiala",
+        "risk": "ok",
+        "note": "Langfristig gebunden bis 2030"
+      },
+      {
+        "name": "Manuel Neuer",
+        "risk": "risk",
+        "note": "36 J., Karriereende absehbar"
+      },
+      {
+        "name": "Joshua Kimmich",
+        "risk": "ok",
+        "note": "Verlängert bis 2029"
+      },
+      {
+        "name": "Alphonso Davies",
+        "risk": "watch",
+        "note": "Vertrag offen"
+      }
     ],
     "outlook": "Aktuell klarer Peak: 34. Meistertitel, 122 Tore. Der nächste Zyklus beginnt wenn Kane (32) und Neuer (36) abgehen.",
     "future": "⚠️ Potenzielle Transition ab 2027/28"
@@ -21,16 +41,36 @@
     "name": "Borussia Dortmund",
     "pos": "2. Platz (CL)",
     "phase": "transition",
-    "age": 24.8,
+    "age": 25.9,
     "expiring26": 4,
-    "expiring27": 5,
-    "expiring28": 4,
+    "expiring27": 3,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Serhou Guirassy", "risk": "ok", "note": "Top-Stürmer, bis 2028" },
-      { "name": "Julian Brandt", "risk": "risk", "note": "Vertrag bis 2026 – Abgang wahrscheinlich" },
-      { "name": "Nico Schlotterbeck", "risk": "watch", "note": "Bis 2027, will titelfähigen Kader" },
-      { "name": "Karim Adeyemi", "risk": "ok", "note": "22 J., Potenzialträger bis 2027" },
-      { "name": "Niklas Süle", "risk": "risk", "note": "Leistungsprobleme, 2026 offen" }
+      {
+        "name": "Serhou Guirassy",
+        "risk": "ok",
+        "note": "Top-Stürmer, bis 2028"
+      },
+      {
+        "name": "Julian Brandt",
+        "risk": "risk",
+        "note": "Vertrag bis 2026 – Abgang wahrscheinlich"
+      },
+      {
+        "name": "Nico Schlotterbeck",
+        "risk": "watch",
+        "note": "Bis 2027, will titelfähigen Kader"
+      },
+      {
+        "name": "Karim Adeyemi",
+        "risk": "ok",
+        "note": "22 J., Potenzialträger bis 2027"
+      },
+      {
+        "name": "Niklas Süle",
+        "risk": "risk",
+        "note": "Leistungsprobleme, 2026 offen"
+      }
     ],
     "outlook": "Solider Kader, aber viele auslaufende Verträge 2026. Brandt-Abgang ist realistisch. BVB muss im Sommer 2026 den Kern binden oder neu aufbauen.",
     "future": "🔄 Umbau 2026 entscheidend"
@@ -39,15 +79,31 @@
     "name": "RB Leipzig",
     "pos": "3. Platz (CL)",
     "phase": "transition",
-    "age": 24.3,
-    "expiring26": 3,
-    "expiring27": 5,
-    "expiring28": 6,
+    "age": 23.4,
+    "expiring26": 5,
+    "expiring27": 3,
+    "expiring28": 4,
     "keyPlayers": [
-      { "name": "Lois Openda", "risk": "ok", "note": "24 J., bis 2028, Top-Stürmer" },
-      { "name": "Benjamin Sesko", "risk": "watch", "note": "21 J., Begehrlichkeiten großer Klubs" },
-      { "name": "Nicolas Seiwald", "risk": "ok", "note": "Rückgrat Mittelfeld" },
-      { "name": "David Raum", "risk": "watch", "note": "Vertrag bis 2026" }
+      {
+        "name": "Lois Openda",
+        "risk": "ok",
+        "note": "24 J., bis 2028, Top-Stürmer"
+      },
+      {
+        "name": "Benjamin Sesko",
+        "risk": "watch",
+        "note": "21 J., Begehrlichkeiten großer Klubs"
+      },
+      {
+        "name": "Nicolas Seiwald",
+        "risk": "ok",
+        "note": "Rückgrat Mittelfeld"
+      },
+      {
+        "name": "David Raum",
+        "risk": "watch",
+        "note": "Vertrag bis 2026"
+      }
     ],
     "outlook": "Junges System, hohe Abgangsgefahr bei Toptalenten. Red-Bull-Modell: Stars werden verkauft, System bleibt.",
     "future": "♻️ System resilient, Einzelverluste einkalkuliert"
@@ -56,15 +112,31 @@
     "name": "VfB Stuttgart",
     "pos": "4. Platz (CL)",
     "phase": "prime",
-    "age": 24.0,
-    "expiring26": 2,
-    "expiring27": 6,
-    "expiring28": 6,
+    "age": 24.4,
+    "expiring26": 3,
+    "expiring27": 1,
+    "expiring28": 4,
     "keyPlayers": [
-      { "name": "Deniz Undav", "risk": "ok", "note": "Langfristig gebunden" },
-      { "name": "Chris Führich", "risk": "ok", "note": "Schlüsselspieler, gebunden" },
-      { "name": "Maximilian Mittelstädt", "risk": "watch", "note": "Begehrlichkeiten nach starker Saison" },
-      { "name": "Alexander Nübel", "risk": "ok", "note": "Keeper bis 2029" }
+      {
+        "name": "Deniz Undav",
+        "risk": "ok",
+        "note": "Langfristig gebunden"
+      },
+      {
+        "name": "Chris Führich",
+        "risk": "ok",
+        "note": "Schlüsselspieler, gebunden"
+      },
+      {
+        "name": "Maximilian Mittelstädt",
+        "risk": "watch",
+        "note": "Begehrlichkeiten nach starker Saison"
+      },
+      {
+        "name": "Alexander Nübel",
+        "risk": "ok",
+        "note": "Keeper bis 2029"
+      }
     ],
     "outlook": "Jüngster Top-4-Kader. Zwei CL-Saisons in Folge. Gefahr: Abwerbeversuche. Kadererhalt 2026 entscheidend.",
     "future": "✅ Prime, wenn Kader gehalten wird"
@@ -73,14 +145,26 @@
     "name": "TSG Hoffenheim",
     "pos": "5. Platz (EL)",
     "phase": "stable",
-    "age": 24.5,
-    "expiring26": 3,
-    "expiring27": 4,
-    "expiring28": 7,
+    "age": 25.1,
+    "expiring26": 7,
+    "expiring27": 0,
+    "expiring28": 2,
     "keyPlayers": [
-      { "name": "Ihlas Bebou", "risk": "watch", "note": "Erfahrener Spieler, Vertrag bis 2026" },
-      { "name": "Ozan Kabak", "risk": "ok", "note": "Innenverteidiger gesichert" },
-      { "name": "Anton Stach", "risk": "ok", "note": "Mittelfeld-Motor" }
+      {
+        "name": "Ihlas Bebou",
+        "risk": "watch",
+        "note": "Erfahrener Spieler, Vertrag bis 2026"
+      },
+      {
+        "name": "Ozan Kabak",
+        "risk": "ok",
+        "note": "Innenverteidiger gesichert"
+      },
+      {
+        "name": "Anton Stach",
+        "risk": "ok",
+        "note": "Mittelfeld-Motor"
+      }
     ],
     "outlook": "Überraschung der Saison mit 61 Punkten. Kader jung, System funktioniert. Stabil aber ohne Starqualität.",
     "future": "📈 Überperformance, nachhaltiger Aufwärtstrend"
@@ -89,15 +173,31 @@
     "name": "Bayer 04 Leverkusen",
     "pos": "6. Platz (EL)",
     "phase": "transition",
-    "age": 25.2,
-    "expiring26": 4,
-    "expiring27": 5,
-    "expiring28": 5,
+    "age": 26.0,
+    "expiring26": 3,
+    "expiring27": 1,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Granit Xhaka", "risk": "watch", "note": "33 J., bis 2027 – Karriere-Ende naht" },
-      { "name": "Victor Boniface", "risk": "ok", "note": "Stürmer, langfristig gebunden" },
-      { "name": "Florian Wirtz", "risk": "risk", "note": "Abgang zu Real/ManCity erwartet" },
-      { "name": "Alejandro Grimaldo", "risk": "ok", "note": "Linksverteidiger, gebunden" }
+      {
+        "name": "Granit Xhaka",
+        "risk": "watch",
+        "note": "33 J., bis 2027 – Karriere-Ende naht"
+      },
+      {
+        "name": "Victor Boniface",
+        "risk": "ok",
+        "note": "Stürmer, langfristig gebunden"
+      },
+      {
+        "name": "Florian Wirtz",
+        "risk": "risk",
+        "note": "Abgang zu Real/ManCity erwartet"
+      },
+      {
+        "name": "Alejandro Grimaldo",
+        "risk": "ok",
+        "note": "Linksverteidiger, gebunden"
+      }
     ],
     "outlook": "Post-Meister-Titelverteidigung misslungen. Wirtz-Abgang kostet enorm. Neuer Trainer. Rebuild läuft subtil schon.",
     "future": "⬇️ Rebuild nach Wirtz-Abgang"
@@ -106,14 +206,26 @@
     "name": "Eintracht Frankfurt",
     "pos": "7. Platz (Conference)",
     "phase": "stable",
-    "age": 25.8,
-    "expiring26": 4,
-    "expiring27": 4,
-    "expiring28": 5,
+    "age": 25.1,
+    "expiring26": 6,
+    "expiring27": 1,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Omar Marmoush", "risk": "risk", "note": "Abgang nach starker Saison wahrscheinlich" },
-      { "name": "Ansgar Knauff", "risk": "ok", "note": "Gebunden, Entwicklungspotenzial" },
-      { "name": "Robin Koch", "risk": "ok", "note": "Innenverteidiger" }
+      {
+        "name": "Omar Marmoush",
+        "risk": "risk",
+        "note": "Abgang nach starker Saison wahrscheinlich"
+      },
+      {
+        "name": "Ansgar Knauff",
+        "risk": "ok",
+        "note": "Gebunden, Entwicklungspotenzial"
+      },
+      {
+        "name": "Robin Koch",
+        "risk": "ok",
+        "note": "Innenverteidiger"
+      }
     ],
     "outlook": "Stabil im oberen Mittelfeld. Topscorer-Abgang oft unvermeidlich. Gutes Scouting fängt Verluste ab.",
     "future": "🔄 Abhängig von Transfer-Reinvestitionen"
@@ -122,14 +234,26 @@
     "name": "SC Freiburg",
     "pos": "8. Platz (Conference)",
     "phase": "stable",
-    "age": 24.9,
-    "expiring26": 3,
-    "expiring27": 5,
-    "expiring28": 6,
+    "age": 27.6,
+    "expiring26": 2,
+    "expiring27": 3,
+    "expiring28": 0,
     "keyPlayers": [
-      { "name": "Michael Gregoritsch", "risk": "watch", "note": "Erfahren, bis 2026" },
-      { "name": "Lucas Höler", "risk": "ok", "note": "Vereinsikone, langfristig" },
-      { "name": "Ritsu Doan", "risk": "ok", "note": "Japanischer Nationalspieler, gebunden" }
+      {
+        "name": "Michael Gregoritsch",
+        "risk": "watch",
+        "note": "Erfahren, bis 2026"
+      },
+      {
+        "name": "Lucas Höler",
+        "risk": "ok",
+        "note": "Vereinsikone, langfristig"
+      },
+      {
+        "name": "Ritsu Doan",
+        "risk": "ok",
+        "note": "Japanischer Nationalspieler, gebunden"
+      }
     ],
     "outlook": "Systemtreu unter Aris Papathanasiou. Freiburg verkauft gezielt und ersetzt gut. Ewige Stabilität im Mittelfeld.",
     "future": "✅ Strukturell stabil, kein Umbruch nötig"
@@ -138,14 +262,26 @@
     "name": "1. FC Union Berlin",
     "pos": "9. Platz",
     "phase": "rebuild",
-    "age": 26.4,
-    "expiring26": 5,
-    "expiring27": 4,
-    "expiring28": 4,
+    "age": 26.7,
+    "expiring26": 1,
+    "expiring27": 3,
+    "expiring28": 0,
     "keyPlayers": [
-      { "name": "Robin Knoche", "risk": "risk", "note": "33 J., Vertrag 2026" },
-      { "name": "Kevin Volland", "risk": "watch", "note": "Erfahrung, aber älter werdend" },
-      { "name": "Benedict Hollerbach", "risk": "ok", "note": "Stürmer, Zukunft" }
+      {
+        "name": "Robin Knoche",
+        "risk": "risk",
+        "note": "33 J., Vertrag 2026"
+      },
+      {
+        "name": "Kevin Volland",
+        "risk": "watch",
+        "note": "Erfahrung, aber älter werdend"
+      },
+      {
+        "name": "Benedict Hollerbach",
+        "risk": "ok",
+        "note": "Stürmer, Zukunft"
+      }
     ],
     "outlook": "Nach Absturz aus BL und Rückkehr: Kader älter, Identitätsverlust nach CL-Saison. Rebuild mit jüngeren Spielern.",
     "future": "🔨 Bewusster Neuaufbau"
@@ -154,13 +290,21 @@
     "name": "1. FC Köln",
     "pos": "10. Platz",
     "phase": "stable",
-    "age": 25.1,
-    "expiring26": 4,
-    "expiring27": 5,
-    "expiring28": 4,
+    "age": 25.4,
+    "expiring26": 7,
+    "expiring27": 4,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Davie Selke", "risk": "watch", "note": "Kapitän, bis 2026" },
-      { "name": "Dejan Ljubicic", "risk": "ok", "note": "Mittelfeld bis 2027" }
+      {
+        "name": "Davie Selke",
+        "risk": "watch",
+        "note": "Kapitän, bis 2026"
+      },
+      {
+        "name": "Dejan Ljubicic",
+        "risk": "ok",
+        "note": "Mittelfeld bis 2027"
+      }
     ],
     "outlook": "Rückkehr nach Abstieg – Bundesliga-Etablierung das Ziel. Stabile Identität nach Relegation.",
     "future": "📊 Stabiler Mittelklasse-Zyklus"
@@ -169,14 +313,26 @@
     "name": "Borussia Mönchengladbach",
     "pos": "11. Platz",
     "phase": "rebuild",
-    "age": 24.6,
-    "expiring26": 5,
-    "expiring27": 4,
-    "expiring28": 5,
+    "age": 25.5,
+    "expiring26": 4,
+    "expiring27": 6,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Alassane Plea", "risk": "risk", "note": "30 J., bis 2026, sehr wichtig" },
-      { "name": "Franck Honorat", "risk": "watch", "note": "Auf dem Transfermarkt begehrt" },
-      { "name": "Julian Weigl", "risk": "ok", "note": "Mittelfeldanker" }
+      {
+        "name": "Alassane Plea",
+        "risk": "risk",
+        "note": "30 J., bis 2026, sehr wichtig"
+      },
+      {
+        "name": "Franck Honorat",
+        "risk": "watch",
+        "note": "Auf dem Transfermarkt begehrt"
+      },
+      {
+        "name": "Julian Weigl",
+        "risk": "ok",
+        "note": "Mittelfeldanker"
+      }
     ],
     "outlook": "Mehrjähriger Umbau. Neue Spielidee entwickelt, aber noch volatil. Plea-Verbleib entscheidend.",
     "future": "🔨 Langfristiger Rebuild, noch 2 Jahre"
@@ -185,14 +341,26 @@
     "name": "VfL Wolfsburg",
     "pos": "12. Platz",
     "phase": "transition",
-    "age": 25.8,
-    "expiring26": 4,
-    "expiring27": 5,
-    "expiring28": 4,
+    "age": 25.2,
+    "expiring26": 9,
+    "expiring27": 4,
+    "expiring28": 1,
     "keyPlayers": [
-      { "name": "Kaminski", "risk": "ok", "note": "Keeper, langfristig" },
-      { "name": "Jonas Wind", "risk": "watch", "note": "Stürmer, bis 2026" },
-      { "name": "Maximilian Arnold", "risk": "risk", "note": "Kapitän, Vertrag läuft aus" }
+      {
+        "name": "Kaminski",
+        "risk": "ok",
+        "note": "Keeper, langfristig"
+      },
+      {
+        "name": "Jonas Wind",
+        "risk": "watch",
+        "note": "Stürmer, bis 2026"
+      },
+      {
+        "name": "Maximilian Arnold",
+        "risk": "risk",
+        "note": "Kapitän, Vertrag läuft aus"
+      }
     ],
     "outlook": "Drei Trainerwechsel in einer Saison – strukturelle Probleme. Transition ohne klares Ziel.",
     "future": "❓ Strukturproblem, kein klares Konzept"
@@ -201,14 +369,26 @@
     "name": "Werder Bremen",
     "pos": "13. Platz",
     "phase": "stable",
-    "age": 25.3,
+    "age": 25.0,
     "expiring26": 3,
-    "expiring27": 5,
-    "expiring28": 6,
+    "expiring27": 3,
+    "expiring28": 3,
     "keyPlayers": [
-      { "name": "Marvin Ducksch", "risk": "watch", "note": "Topscorer, begehrlich" },
-      { "name": "Christian Stage", "risk": "ok", "note": "Mittelfeld gebunden" },
-      { "name": "Marco Friedl", "risk": "ok", "note": "Verteidigung stabil" }
+      {
+        "name": "Marvin Ducksch",
+        "risk": "watch",
+        "note": "Topscorer, begehrlich"
+      },
+      {
+        "name": "Christian Stage",
+        "risk": "ok",
+        "note": "Mittelfeld gebunden"
+      },
+      {
+        "name": "Marco Friedl",
+        "risk": "ok",
+        "note": "Verteidigung stabil"
+      }
     ],
     "outlook": "Werners System sitzt. Kein Titelfavorit, aber konstant oberes Mittelfeld. Gefahr: Ducksch-Abgang.",
     "future": "✅ Stabile Mittelfeld-Einheit"
@@ -217,13 +397,21 @@
     "name": "Hamburger SV",
     "pos": "14. Platz",
     "phase": "transition",
-    "age": 25.0,
-    "expiring26": 4,
-    "expiring27": 6,
-    "expiring28": 4,
+    "age": 24.6,
+    "expiring26": 7,
+    "expiring27": 4,
+    "expiring28": 0,
     "keyPlayers": [
-      { "name": "Rayan Philippe", "risk": "ok", "note": "Topscorer, gebunden" },
-      { "name": "Miro Muheim", "risk": "ok", "note": "Linksverteidiger bis 2027" }
+      {
+        "name": "Rayan Philippe",
+        "risk": "ok",
+        "note": "Topscorer, gebunden"
+      },
+      {
+        "name": "Miro Muheim",
+        "risk": "ok",
+        "note": "Linksverteidiger bis 2027"
+      }
     ],
     "outlook": "Erste Saison zurück in der Bundesliga – Aufgabe erfüllt (14. Platz). Identitätsfindung nach Rückkehr.",
     "future": "📈 Konsolidierung, mittelfristig stabilisierend"
@@ -232,13 +420,21 @@
     "name": "FC Augsburg",
     "pos": "15. Platz",
     "phase": "stable",
-    "age": 26.0,
-    "expiring26": 5,
-    "expiring27": 4,
-    "expiring28": 4,
+    "age": 25.2,
+    "expiring26": 8,
+    "expiring27": 2,
+    "expiring28": 0,
     "keyPlayers": [
-      { "name": "Ermedin Demirovic", "risk": "risk", "note": "Topscorer, Abgang realistisch" },
-      { "name": "Mads Pedersen", "risk": "ok", "note": "Verteidiger langfristig" }
+      {
+        "name": "Ermedin Demirovic",
+        "risk": "risk",
+        "note": "Topscorer, Abgang realistisch"
+      },
+      {
+        "name": "Mads Pedersen",
+        "risk": "ok",
+        "note": "Verteidiger langfristig"
+      }
     ],
     "outlook": "Überlebenskünstler der Liga. Älterer Kader, viele Vertragsenden 2026. Erfahrung hält sie oben.",
     "future": "⚡ Klassischer Abstiegskampf-Zyklus"
@@ -247,13 +443,21 @@
     "name": "1. FC Heidenheim",
     "pos": "16. Platz",
     "phase": "stable",
-    "age": 26.5,
-    "expiring26": 6,
-    "expiring27": 4,
-    "expiring28": 3,
+    "age": 26.0,
+    "expiring26": 5,
+    "expiring27": 3,
+    "expiring28": 2,
     "keyPlayers": [
-      { "name": "Jan-Niklas Beste", "risk": "risk", "note": "Abgang nach starker Saison 24/25" },
-      { "name": "Kevin Sessa", "risk": "ok", "note": "Mittelfeld" }
+      {
+        "name": "Jan-Niklas Beste",
+        "risk": "risk",
+        "note": "Abgang nach starker Saison 24/25"
+      },
+      {
+        "name": "Kevin Sessa",
+        "risk": "ok",
+        "note": "Mittelfeld"
+      }
     ],
     "outlook": "Kleinstes Budget, ältester Kader. Überleben jedes Jahr eine Überleistung. Qualitätslücke nach Beste-Abgang.",
     "future": "🔴 Abstiegsgefahr, Kader am Limit"
@@ -262,13 +466,21 @@
     "name": "1. FSV Mainz 05",
     "pos": "17. Platz (abgestiegen)",
     "phase": "rebuild",
-    "age": 24.2,
-    "expiring26": 5,
-    "expiring27": 5,
-    "expiring28": 4,
+    "age": 26.9,
+    "expiring26": 7,
+    "expiring27": 4,
+    "expiring28": 3,
     "keyPlayers": [
-      { "name": "Lee Jae-sung", "risk": "risk", "note": "Abgang wahrscheinlich bei Abstieg" },
-      { "name": "Silvan Widmer", "risk": "watch", "note": "Rechtsverteidiger" }
+      {
+        "name": "Lee Jae-sung",
+        "risk": "risk",
+        "note": "Abgang wahrscheinlich bei Abstieg"
+      },
+      {
+        "name": "Silvan Widmer",
+        "risk": "watch",
+        "note": "Rechtsverteidiger"
+      }
     ],
     "outlook": "Abstieg nach chaotischer Saison. Rebuild in der 2. Bundesliga – Kernkader halten wird schwer.",
     "future": "🔨 Abstieg → Rebuild in Liga 2"
@@ -277,13 +489,21 @@
     "name": "FC St. Pauli",
     "pos": "18. Platz (abgestiegen)",
     "phase": "rebuild",
-    "age": 26.3,
-    "expiring26": 6,
-    "expiring27": 4,
-    "expiring28": 3,
+    "age": 25.9,
+    "expiring26": 4,
+    "expiring27": 3,
+    "expiring28": 0,
     "keyPlayers": [
-      { "name": "Jackson Irvine", "risk": "risk", "note": "Schlüsselspieler, Abgang realistisch" },
-      { "name": "Connor Metcalfe", "risk": "ok", "note": "Mittelfeldstütze" }
+      {
+        "name": "Jackson Irvine",
+        "risk": "risk",
+        "note": "Schlüsselspieler, Abgang realistisch"
+      },
+      {
+        "name": "Connor Metcalfe",
+        "risk": "ok",
+        "note": "Mittelfeldstütze"
+      }
     ],
     "outlook": "Längste Niederlagenserie der Saison (9 Spiele). Kern jung – schnelle Rückkehr möglich.",
     "future": "🔨 Rückkehr mit Erfahrung aus Bundesliga"

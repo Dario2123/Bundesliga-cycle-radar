@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bundesliga Squad Cycle Radar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1>Bundesliga Squad Cycle Radar</h1>
+        <p class="subtitle">Kaderzyklen 2025/26 — Alter, Vertragsenden & strategischer Ausblick</p>
+      </div>
+      <div class="legend">
+        <span class="leg-item"><span class="leg-dot dot-2026"></span>Vertrag endet 2026</span>
+        <span class="leg-item"><span class="leg-dot dot-2027"></span>2027</span>
+        <span class="leg-item"><span class="leg-dot dot-2028"></span>2028+</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-phase="all">Alle (18)</button>
+      <button class="filter-btn" data-phase="prime">🟢 Prime</button>
+      <button class="filter-btn" data-phase="transition">🟡 Transition</button>
+      <button class="filter-btn" data-phase="rebuild">🔴 Rebuild</button>
+      <button class="filter-btn" data-phase="stable">🔵 Stabil</button>
+    </div>
+
+    <div class="grid" id="club-grid"></div>
+  </main>
+
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script src="../src/app.js"></script>
+</body>
+</html>

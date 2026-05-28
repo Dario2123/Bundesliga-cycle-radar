@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bundesliga Squad Cycle Radar</title>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1>Bundesliga Squad Cycle Radar</h1>
+        <p class="subtitle">Kaderzyklen 2025/26 — Alter, Leistung &amp; strategischer Ausblick</p>
+      </div>
+      <div class="legend">
+        <span class="leg-item"><span class="rating-dot r-great"></span>≥ 7.5</span>
+        <span class="leg-item"><span class="rating-dot r-good"></span>7.0–7.5</span>
+        <span class="leg-item"><span class="rating-dot r-avg"></span>6.5–7.0</span>
+        <span class="leg-item"><span class="rating-dot r-low"></span>&lt; 6.5</span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="filters" id="filters"></div>
+    <div class="grid" id="club-grid"></div>
+  </main>
+
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div id="modal-content"></div>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
